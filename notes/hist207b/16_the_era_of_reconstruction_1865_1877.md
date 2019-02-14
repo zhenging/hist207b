@@ -85,9 +85,9 @@ Reunion means filling empty seats
 
 #### 2. Why did J choose to promote the reconciliation of the North and South at the expense of doing "more" for the freed slaves?
 **A**. J was commited to the doctrine of states' rights
-+ Study carefully #2 on the Reconstruction Evidence Sheet. (States' Rights)
-  1\. Be able to define and give an example of states' rights. Know why the doctrine of states' rights was significant in the debate between J and the Republicans in Congress.
-  2\. Know the argumetns J employed in defending states' rights and how the RRs attempted to counter those Arguments.
+Study carefully #2 on the Reconstruction Evidence Sheet. (States' Rights)
+Be able to define and give an example of states' rights. Know why the doctrine of states' rights was significant in the debate between J and the Republicans in Congress.
+Know the argumetns J employed in defending states' rights and how the RRs attempted to counter those Arguments.
 + Key state right issue: Would freed slaves vote?
 + RRs: Yes. Called On J to force black voting in the South.
 + J: It's each state's right to decide. President can't interfere
@@ -95,31 +95,31 @@ Reunion means filling empty seats
 + J: They never left and still have their rights. There is no such thing as Reconstruction.
 
 **B**. J's views on Race
-+ Study carefully #3 on the Reconstruction Evidence Sheet.Be able to characterize J's views on Race and explain how his views on race shaped his program of reconstruction.
-+ Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says about J's views on race.
+Study carefully #3 on the Reconstruction Evidence Sheet.Be able to characterize J's views on Race and explain how his views on race shaped his program of reconstruction.
+Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says about J's views on race.
 + splcenter.org
 + Racists (J commited to white surpremacy)
 + Group People
 + Brand blacks as inferior
 + J's brand of racisim: All blakcks are inferior, innate, inborn, permanent.
 
-#### Congress' Program (Congress's terms of reunion)
-Seats were still empty.
-**A**. Joint committee on Reconstruction
-+ Poluated by RRs
-+ Run Congress' Program
+#### 3. Failure of J's Program
+- During last half of 1865
+- Under J's terms of reunion: south elected and sent new members to congress to fill empty seats.
+- White southerns' view of J's terms? "Amazingly lenient". It was too good to be true. South rushed to seal with J and get their seats back.
+- _What happend?_ J called on congress to seat new south members.
+- _What happend next?_ Turning point in story.
+  Evidence Sheet #5: Tindal P.588
+- _Why outrage?_ Text Study Guide -> Who did south elect? -> Alexander H. Stephens (VP of Confederate)
+- Final Point: J came so close to tilling seats.
 
-**B**. 1866 Laws (14th Amendment) (P. 588)
-+ Civil Rights Act: All blacks are citizens. Everybody has equal protection under law.
-+ Put in 14th Amendment
-+ Money for Freed men's Bureau. They were building schools for freed slaves' kids.
-+ J's response? Veto why? Race hatred, states' rights. (States Rights Trace)
-+ Congress' response to veto? Override veto: need 2/3 in house + 2/3 in the Senate.
-+ Did republicans have that many votes? Yes/
-  + Veto not working
-  + J turns to obstruction. (did not implement laws that were passed).
-  + Congress responded by impeaching and removing
-+ Why did they come up 1 vote short in trial?
+**J failed Reconstruction.**
+
+#### 4. Evaluating J's leadership
++ J had historical opportunity to advance racial justice.
++ Kept nation on course of race hatred. (No significant until 1950's, about 100 years)
++ J's legacy: A century of crushing racial opppression and terrorism.
++ Really awful president. (Ranking of J's presidency: 42/43)
 
 #### 5. Radical Republicans (RRs)
 - Subset of republican party
@@ -143,20 +143,20 @@ _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator o
 
 Evidence Sheet #6: Good example to put in essay.
 
-#### Failure of J's Program
-- During last half of 1865
-- Under J's terms of reunion: south elected and sent new members to congress to fill empty seats.
-- White southerns' view of J's terms? "Amazingly lenient". It was too good to be true. South rushed to seal with J and get their seats back.
-- _What happend?_ J called on congress to seat new south members.
-- _What happend next?_ Turning point in story.
-  Evidence Sheet #5: Tindal P.588
-- _Why outrage?_ Text Study Guide -> Who did south elect? -> Alexander H. Stephens (VP of Confederate)
-- Final Point: J came so close to tilling
+#### 6. Congress' Program (Congress's terms of reunion)
+Seats were still empty.
+**A**. Joint committee on Reconstruction
++ Poluated by RRs
++ Run Congress' Program
 
-**J failed Reconstruction.**
-
-#### Evaluating J's leadership
-+ J had historical opportunity to advance racial justice.
-+ Kept nation on course of race hatred. (No significant until 1950's, about 100 years)
-+ J's legacy: A century of crushing racial opppression and terrorism.
-+ Really awful president. (Ranking of J's presidency: 42/43)
+**B**. 1866 Laws (14th Amendment) (P. 588)
++ Civil Rights Act: All blacks are citizens. Everybody has equal protection under law.
++ Put in 14th Amendment
++ Money for Freed men's Bureau. They were building schools for freed slaves' kids.
++ J's response? Veto why? Race hatred, states' rights. (States Rights Trace)
++ Congress' response to veto? Override veto: need 2/3 in house + 2/3 in the Senate.
++ Did republicans have that many votes? Yes
+  + Veto not working
+  + J turns to obstruction. (did not implement laws that were passed).
+  + Congress responded by impeaching and removing
++ Why did they come up one vote short in trial?
