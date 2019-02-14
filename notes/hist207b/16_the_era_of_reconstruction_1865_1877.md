@@ -67,7 +67,7 @@ Do the southern states want their seats in congress back?
 > Seats = Power.
 Reunion means filling empty seats
 
-#### J's Progam (J's terms of reunion)
+#### 1. J's Progam (J's terms of reunion)
 **A**. J granted generous amnesty, pardons and restituion of property to the former confederate leaders. _Why was this significant?_
 + 15,000 requested, 13,500 granted. (90%).
 + Give back political (vote, hold office) & economic (land) power back to  confederate leaders (Why need pardons? Traitors)
@@ -83,7 +83,7 @@ Reunion means filling empty seats
 + Mississippi and Texas defied J's program on 13th Amendment. J still supported their readmission anyway.
 + Characterize J's Program: **Amazingly Lenient**
 
-#### Why did J choose to promote the reconciliation of the North and South at the expense of doing "more" for the freed slaves?
+#### 2. Why did J choose to promote the reconciliation of the North and South at the expense of doing "more" for the freed slaves?
 **A**. J was commited to the doctrine of states' rights
 + Study carefully #2 on the Reconstruction Evidence Sheet. (States' Rights)
   1\. Be able to define and give an example of states' rights. Know why the doctrine of states' rights was significant in the debate between J and the Republicans in Congress.
@@ -114,22 +114,46 @@ Seats were still empty.
 + Put in 14th Amendment
 + Money for Freed men's Bureau. They were building schools for freed slaves' kids.
 + J's response? Veto why? Race hatred, states' rights. (States Rights Trace)
-+ Congress' reponse to veto? Override veto: need 2/3 in house + 2/3 in the Senate.
++ Congress' response to veto? Override veto: need 2/3 in house + 2/3 in the Senate.
 + Did republicans have that many votes? Yes/
   + Veto not working
   + J turns to obstruction. (did not implement laws that were passed).
   + Congress responded by impeaching and removing
 + Why did they come up 1 vote short in trial?
 
-#### Radical Republicans (RRs)
+#### 5. Radical Republicans (RRs)
 - Subset of republican party
 - They believe in equality of the races
 - Do more for freed slaves
 
-RRs' motives? SQ #5. (P 583, 587, 588)
+##### RRs' motives? SQ #5. (P 583, 587, 588)
+_Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator of Ohio); Thaddeus Stevens (House Representative of Pennsylvania)
+(1) Political motive: Blacks will vote republican (they are trying to help slaves).
+(2) Humanitarian motive: Evidence? - Part of anti-slavery movement **Before** civil war
+  - Stevens: In his will, he requested to be buried in integrated cemetry.
+
+**Role of Religion**
+  - Stevens is from Pennsylvania(Quaker state).
+  - Quakers believe people are equal in God's eyes.
+  - Sumner is from Massachusetts (puntan state).
+  - Puntans believe people are equal in God's eyes.
+
+(3) Punishiment movtive:
+  - Stevens said: The whole fabric of southern society must be changed.
+
+Evidence Sheet #6: Good example to put in essay.
 
 #### Failure of J's Program
+- During last half of 1865
+- Under J's terms of reunion: south elected and sent new members to congress to fill empty seats.
+- White southerns' view of J's terms? "Amazingly lenient". It was too good to be true. South rushed to seal with J and get their seats back.
+- _What happend?_ J called on congress to seat new south members.
+- _What happend next?_ Turning point in story.
+  Evidence Sheet #5: Tindal P.588
+- _Why outrage?_ Text Study Guide -> Who did south elect? -> Alexander H. Stephens (VP of Confederate)
+- Final Point: J came so close to tilling
 
+**J failed Reconstruction.**
 
 #### Evaluating J's leadership
 + J had historical opportunity to advance racial justice.
