@@ -1,4 +1,4 @@
-### 16 The Era of Reconstruction 1865-1877
+### 03 Reconstruction
 
 #### Reconstruction issues still around today:
 
@@ -95,7 +95,7 @@ Know the argumetns J employed in defending states' rights and how the RRs attemp
 + J: They never left and still have their rights. There is no such thing as Reconstruction.
 
 **B**. J's views on Race
-Study carefully #3 on the Reconstruction Evidence Sheet.Be able to characterize J's views on Race and explain how his views on race shaped his program of reconstruction.
+Study carefully #3 on the Reconstruction Evidence Sheet. Be able to characterize J's views on Race and explain how his views on race shaped his program of reconstruction.
 Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says about J's views on race.
 + splcenter.org
 + Racists (J commited to white surpremacy)
@@ -143,13 +143,15 @@ _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator o
 
 Evidence Sheet #6: Good example to put in essay.
 
+
 #### 6. Congress' Program (Congress's terms of reunion)
+(The first component of your essay must include: 6A, 6B, and 6C)
 Seats were still empty.
 **A**. Joint committee on Reconstruction
 + Poluated by RRs
 + Run Congress' Program
 
-**B**. 1866 Laws (14th Amendment) (P. 588)
+**B**. 1866 Legislation (14th Amendment) (P. 588)
 + Civil Rights Act: All blacks are citizens. Everybody has equal protection under law.
 + Put in 14th Amendment
 + Money for Freed men's Bureau. They were building schools for freed slaves' kids.
@@ -160,3 +162,15 @@ Seats were still empty.
   + J turns to obstruction. (did not implement laws that were passed).
   + Congress responded by impeaching and removing
 + Why did they come up one vote short in trial?
+
+**C.** Summary of the Congressional Reconstruction Acts of 1867
++ Congress abolished the state government in the South set uo under J's program
++ Congress returned the southern states to millitary rule.
+  + North: Shutdown southern definance
+  + White southerns: Darkest chapter in south history
+  + Why? States' right and Race
++ Congress supervised the creation of new state goverment in the South
++ Congress set new requirement for the readmission of the southern states:
+  + Former confederate leaders were excluded from office and voting
+  + Black suffrage
+  + Ratification of the 14th amendment
