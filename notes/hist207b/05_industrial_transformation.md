@@ -58,6 +58,10 @@ Anger and Vulnerability
 
 >ES4. Conclusion to the industrial transformation of agriculture: Tindall, previous edition
 
+**Study Questions (Ch. 17)**
+What obstacles did workers face when they attempted to organize?
+What caused labor conflict in the late nineteenth century?
+
 **1.7% Experiment** - Why do you like 1.7% experiment?
 
 Mechanization - Reconstructure
