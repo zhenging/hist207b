@@ -135,7 +135,7 @@ _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator o
 **Role of Religion**
   - Stevens is from Pennsylvania(Quaker state).
   - Quakers believe people are equal in God's eyes.
-  - Sumner is from Massachusetts (puntan state).
+  - Sumner is from Massachusetts (Puritan state).
   - Puntans believe people are equal in God's eyes.
 
 (3) Punishiment movtive:
@@ -147,11 +147,11 @@ Evidence Sheet #6: Good example to put in essay.
 #### 6. Congress' Program (Congress's terms of reunion)
 (The first component of your essay must include: 6A, 6B, and 6C)
 Seats were still empty.
-**A**. Joint committee on Reconstruction
+**A. Joint committee on Reconstruction**
 + Poluated by RRs
 + Run Congress' Program
 
-**B**. 1866 Legislation (14th Amendment) (P. 588)
+**B. 1866 Legislation (14th Amendment) (P. 588)**
 + Civil Rights Act: All blacks are citizens. Everybody has equal protection under law.
 + Put in 14th Amendment
 + Money for Freed men's Bureau. They were building schools for freed slaves' kids.
@@ -163,7 +163,7 @@ Seats were still empty.
   + Congress responded by impeaching and removing
 + Why did they come up one vote short in trial?
 
-**C.** Summary of the Congressional Reconstruction Acts of 1867
+**C. Summary of the Congressional Reconstruction Acts of 1867**
 + Congress abolished the state government in the South set uo under J's program
 + Congress returned the southern states to millitary rule.
   + North: Shutdown southern definance
@@ -174,3 +174,37 @@ Seats were still empty.
   + Former confederate leaders were excluded from office and voting
   + Black suffrage
   + Ratification of the 14th amendment
+
+#### 7. Go to Blacks in Congress handout
+Why did African Americans flip? (From Republican to Democratic)
++ Party loyalties were forged in civil war. (Lasted for about 100 years)
++ Black in South = Republican
++ White in South = Democratic
+
+1877: North troops out of South: tired of race problem in South. Republican party abandoned blacks in South.
+Franklin Roosevelt - Democratic - 1932
++ Minority Appointments
++ Blacks start to move out of Republican Party into Democratic Party
+
+Harry Truman Democratic 1945
++ Wipes out segration in armed force
++ More blacks move to Democratic Party
+
+Lyndon Johnson - Democratic - 1963
++ Civil Right
++ 90% blacks into Democratic Parth
+
+#### 8. Re-establish white supremacy
+**A. Disfranchisement** (p666-667)
+How were black gains in South lost?
++ 15th amendment says: States can not deny vote baced on race. (Nullified states' rights to decide)
+
+How did Whites get around 15th amendment?
++ Poll Tax
++ Literacy Test
+
+How effective?
++ 1940: All south states, 5 million blacks, only 150,000 (3%) eligible to vote. 97% affected.
+
+**B. Jim Crow Segration**
+Racial seperation by state laws(p667-668）(Not just in south)
