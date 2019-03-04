@@ -41,4 +41,4 @@ Andrew Carnegie, Samuel Gompers ...
 7\. Be familiar with Roosevelt's "rocket" rise to prominence.
 
 8\. How does the text characterize Roosevelt's approach to foreign policy?
-+ Big stick policy. (Agressive)
++ Big stick policy. (Aggressive)
