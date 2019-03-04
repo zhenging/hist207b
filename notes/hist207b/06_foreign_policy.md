@@ -95,3 +95,44 @@ US Opinion: Sympathized with Cuban rebels.
 Why? and Motive?
 + ES #6. Economic Interest
 + Strategic motive: Get Spain out of West hemisphere.
+
+How did Americans follow events in Cuba?
++ Popular press
+
+Coverage slanted against Spain. US opinion -> arose + Anti-spanish
+
+#### The Maine
+Why is the Maine in Havana harbor?
++ Feb 15, 1898. On a courtesy call.
+
+Investigation | Year | Cause |
+:------------:|------|--------|
+\#1 | 1898 | External |
+\#2 | 1911 | External |
+\#3 | 1976 | **Internal** |
+
+Significance?
++ War on false pretense.
+
+The result of the war?
++ US won decisive vitory.
+
+#### Treaty of Paris
++ If approved, US annexes (Spainish Colonies):Purto Rico, Guam, Philippines.
++ By early 1899, the Treaty of Paris had yet to be ratified in the Senate. (p757)
++ **Against**: Taking control of former Spainish colonies would violate the longstanding Americal principle embodied the Constitution that people should be self-governing.
++ **For**: Ending the war would open the future independence of Philippines.
++ **Result**: Only one vote more than two-thirds.
+
+Contingency: histor can go in different directions.
+
+Annexing Philippines divided Americans. **ES #9**
+
+Filipinos fought agains US annexation. (The Philippine-American War, 1898-1902). p758
+
+Result of War of 1898: US became an imperial power.
+
+Mckinley:
++ Reluctant Imperialist
++ Calculation Political Stake
++ ES #10
