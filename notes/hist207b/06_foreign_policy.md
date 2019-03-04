@@ -67,5 +67,31 @@ Scramble of colonies. US is behind.
 **End of Essay #2.**
 
 #### C. The Liberty Argument
++ Many Americans believe that their political and economic institutions were superior to those of other nations.
++ Many Americans took national pride in their political and economic institutionss, believe that these produced liberty and prospertiy at home.
+
+We'll refer to these institutions as democracy and captialism and define them this way:
++ **Democracy**: A political system based on representation and constitutional government.
++ **Captialism**: An economic system based on private property and the profit system.
+
+Beliefs are important in history because they spur people to act.
+Expansionists promoted the Liberty Argument.
 
 #### D. The Racial Supremacy and Religious Arguments
+Please follow-up on these important points about the roles of race and religion in expansion abroad. You’ll need to prepare this material for the midterm exam.
+
++ Study what Tindall has to say about Social Darwinism. It's ES #3.
++ Study Tindall's section on imperialism. (p745-747)
++ Recognize how Social Darwinism and religion shaped US foreign policy.
++ Senator Henry Catbot Lodge and Josiah Strong popularized Social Darwinism. Study their message: ES #4 and #5.
++ Identify statements in Beveridge's "Speech on the Philippine Question", that use racial supremacy and religion to justify US imperialism.
+
+#### Concolusion
+Why did US raise to a world power?
+
+### 2. War of 1898 (Spanish-American War)
+In 1895, Cubans reblled agaist Spain.
+US Opinion: Sympathized with Cuban rebels.
+Why? and Motive?
++ ES #6. Economic Interest
++ Strategic motive: Get Spain out of West hemisphere.
