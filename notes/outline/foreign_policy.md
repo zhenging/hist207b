@@ -1,0 +1,3 @@
+## Prompt
+Describe and explain the role of the Navy Lobby in US expansion abroad.  What was the Navy Lobby?  What did it want? Who was Alfred Thayer Mahan?  What was his message about the US and expansion abroad?  Cite the State of the Union article by the historian Ivan Musicant.
+Describe and explain the role of the Business Lobby in US expansion abroad.  What was the Business Lobby?  What did it want?  What was its message about US expansion abroad?   Who was Senator Albert Beveridge?  Cite Beveridge's speeches.  What was the so-called closing of the frontier and why was business concerned about that?

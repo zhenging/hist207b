@@ -1,6 +1,6 @@
-### 03 Reconstruction
+## 03 Reconstruction
 
-#### Reconstruction issues still around today:
+Reconstruction issues still around today:
 
 **Birthright Citizenship** (Only the US and Canada have it)
 14th Amendment (1868)
@@ -8,9 +8,9 @@
 **Voting Rights**
 15th Amendment (1870)
 
-#### What were the results of the Civil War?
+### What were the results of the Civil War?
 
-##### 1. Secession was dead.
+#### 1. Secession was dead.
 + Secession by Law (11 states left)
 
 What would lincoln do?
@@ -20,7 +20,7 @@ Lesson: If the state tries to leave, it will be destoried.
 
 Keep those states in the union
 
-##### 2. Slavery wad dead.
+#### 2. Slavery wad dead.
 Ending slavery is not the original war objective.
 1. Millitary Necessity
 2. Foreign Policy Necessity
@@ -67,24 +67,25 @@ Do the southern states want their seats in congress back?
 > Seats = Power.
 Reunion means filling empty seats
 
-#### 1. J's Progam (J's terms of reunion)
-**A**. J granted generous amnesty, pardons and restituion of property to the former confederate leaders. _Why was this significant?_
+### 1. J's Progam (J's terms of reunion)
+
+#### A. J granted generous amnesty, pardons and restituion of property to the former confederate leaders. _Why was this significant?_
 + 15,000 requested, 13,500 granted. (90%).
 + Give back political (vote, hold office) & economic (land) power back to  confederate leaders (Why need pardons? Traitors)
 + Freed slaves' view of J's program?
 
-**B**. J opposed granting the right to the African-Americans. _Why was this significant?_
+#### B. J opposed granting the right to the African-Americans. _Why was this significant?_
 + No blacks vote under J's program.
 + Lots of elections were coming up in the South.
 + Political power up for grabs
 + Black excluded.
 
-**C**. J states that the southern states would have to do the following to be readmitted: ratify the 13th Amendment (No More Slavery), nullify secession, and cancel their confederate debt. _Why was this significant?_
+#### C. J states that the southern states would have to do the following to be readmitted: ratify the 13th Amendment (No More Slavery), nullify secession, and cancel their confederate debt. _Why was this significant?_
 + Mississippi and Texas defied J's program on 13th Amendment. J still supported their readmission anyway.
 + Characterize J's Program: **Amazingly Lenient**
 
-#### 2. Why did J choose to promote the reconciliation of the North and South at the expense of doing "more" for the freed slaves?
-**A**. J was commited to the doctrine of states' rights
+### 2. Why did J choose to promote the reconciliation of the North and South at the expense of doing "more" for the freed slaves?
+#### A. J was commited to the doctrine of states' rights
 Study carefully #2 on the Reconstruction Evidence Sheet. (States' Rights)
 Be able to define and give an example of states' rights. Know why the doctrine of states' rights was significant in the debate between J and the Republicans in Congress.
 Know the argumetns J employed in defending states' rights and how the RRs attempted to counter those Arguments.
@@ -94,7 +95,7 @@ Know the argumetns J employed in defending states' rights and how the RRs attemp
 + RRs: Teh South gave up their states' rights.
 + J: They never left and still have their rights. There is no such thing as Reconstruction.
 
-**B**. J's views on Race
+#### B. J's views on Race
 Study carefully #3 on the Reconstruction Evidence Sheet. Be able to characterize J's views on Race and explain how his views on race shaped his program of reconstruction.
 Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says about J's views on race.
 + splcenter.org
@@ -103,7 +104,7 @@ Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says ab
 + Brand blacks as inferior
 + J's brand of racisim: All blakcks are inferior, innate, inborn, permanent.
 
-#### 3. Failure of J's Program
+### 3. Failure of J's Program
 - During last half of 1865
 - Under J's terms of reunion: south elected and sent new members to congress to fill empty seats.
 - White southerns' view of J's terms? "Amazingly lenient". It was too good to be true. South rushed to seal with J and get their seats back.
@@ -115,18 +116,18 @@ Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says ab
 
 **J failed Reconstruction.**
 
-#### 4. Evaluating J's leadership
+### 4. Evaluating J's leadership
 + J had historical opportunity to advance racial justice.
 + Kept nation on course of race hatred. (No significant until 1950's, about 100 years)
 + J's legacy: A century of crushing racial opppression and terrorism.
 + Really awful president. (Ranking of J's presidency: 42/43)
 
-#### 5. Radical Republicans (RRs)
+### 5. Radical Republicans (RRs)
 - Subset of republican party
 - They believe in equality of the races
 - Do more for freed slaves
 
-##### RRs' motives? SQ #5. (P 583, 587, 588)
+#### RRs' motives? SQ #5. (P 583, 587, 588)
 _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator of Ohio); Thaddeus Stevens (House Representative of Pennsylvania)
 (1) Political motive: Blacks will vote republican (they are trying to help slaves).
 (2) Humanitarian motive: Evidence? - Part of anti-slavery movement **Before** civil war
@@ -144,14 +145,14 @@ _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator o
 Evidence Sheet #6: Good example to put in essay.
 
 
-#### 6. Congress' Program (Congress's terms of reunion)
+### 6. Congress' Program (Congress's terms of reunion)
 (The first component of your essay must include: 6A, 6B, and 6C)
 Seats were still empty.
-**A. Joint committee on Reconstruction**
+#### A. Joint committee on Reconstruction
 + Poluated by RRs
 + Run Congress' Program
 
-**B. 1866 Legislation (14th Amendment) (P. 588)**
+#### B. 1866 Legislation (14th Amendment) (P. 588)
 + Civil Rights Act: All blacks are citizens. Everybody has equal protection under law.
 + Put in 14th Amendment
 + Money for Freed men's Bureau. They were building schools for freed slaves' kids.
@@ -163,7 +164,7 @@ Seats were still empty.
   + Congress responded by impeaching and removing
 + Why did they come up one vote short in trial?
 
-**C. Summary of the Congressional Reconstruction Acts of 1867**
+#### C. Summary of the Congressional Reconstruction Acts of 1867
 + Congress abolished the state government in the South set uo under J's program
 + Congress returned the southern states to millitary rule.
   + North: Shutdown southern definance
@@ -175,7 +176,7 @@ Seats were still empty.
   + Black suffrage
   + Ratification of the 14th amendment
 
-#### 7. Go to Blacks in Congress handout
+### 7. Go to Blacks in Congress handout
 Why did African Americans flip? (From Republican to Democratic)
 + Party loyalties were forged in civil war. (Lasted for about 100 years)
 + Black in South = Republican
@@ -194,8 +195,8 @@ Lyndon Johnson - Democratic - 1963
 + Civil Right
 + 90% blacks into Democratic Parth
 
-#### 8. Re-establish white supremacy
-**A. Disfranchisement** (p666-667)
+### 8. Re-establish white supremacy
+#### A. Disfranchisement (p666-667)
 How were black gains in South lost?
 + 15th amendment says: States can not deny vote baced on race. (Nullified states' rights to decide)
 
@@ -206,5 +207,5 @@ How did Whites get around 15th amendment?
 How effective?
 + 1940: All south states, 5 million blacks, only 150,000 (3%) eligible to vote. 97% affected.
 
-**B. Jim Crow Segration**
+#### B. Jim Crow Segration
 Racial seperation by state laws(p667-668）(Not just in south)

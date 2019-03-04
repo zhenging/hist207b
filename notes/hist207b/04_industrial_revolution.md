@@ -40,7 +40,7 @@ pp. 625 - 626.
 #### A. Government Aided Business by Promiting Economic Development
 How
 
-#### B. Government kept regulations and restrain on business to a minimum
+#### B. Government Kept Regulations And Restrain On Business To A Minimum
 
 The late nineteenth century is often characterized as an era of minimal national government intervention is tghe economy and society. Laissez-faire is the name often given to the policy that the national government should take a hand-off approach to economic and social problems.
 
