@@ -12,4 +12,6 @@ B. 1866 Legislation (14th Amendment)
 The Radical Republicans challenged President Johnson, who believed in limited federal intervention in the South. On April, 1866, the Congress overrode President Johnson's veto (with 2/3 in both house and senate) and passed the Civil Rights Act of 1866, the first US federal law, which defined and affirmed that all citizens are equallly protected by the law.
 To ensure the legality of the new Civil Rights Act, the Congressional Joint Committee on Reconstruction went further and proposed in April 1866 a pathbreaking 14th Amendment to the US Constitution. It guaranteed citizenship to anyone born or naturalized in the US, except Native Americans. It also reduced representative in Congress of any southern state that deprived African Americans of the vote.
 
+C.
+
 ### Conclusion
