@@ -139,7 +139,7 @@ _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator o
   - Sumner is from Massachusetts (Puritan state).
   - Puntans believe people are equal in God's eyes.
 
-(3) Punishiment movtive:
+(3) Punishiment motive:
   - Stevens said: The whole fabric of southern society must be changed.
 
 Evidence Sheet #6: Good example to put in essay.
