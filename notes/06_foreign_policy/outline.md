@@ -1,5 +1,10 @@
 ## 06 Foreign Policy
 
+>Reading
+Ch.20 p.745-769
+Article: State of the Union
+Article: Speech on Philippine
+
 **Essay #2 begins here**.
 ### Introduction
 From the Civil war to about 1890: Foreign affairs were not important to most Americans. Americans were preoccupied at home. With what?

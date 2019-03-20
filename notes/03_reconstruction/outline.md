@@ -1,5 +1,9 @@
 ## 03 Reconstruction
 
+>Reading
+Article: The Black Code
+Plessy v. Ferguson Assignment
+
 Reconstruction issues still around today:
 
 **Birthright Citizenship** (Only the US and Canada have it)

@@ -1,5 +1,8 @@
 ## Chapter 19 Political Stalement and Rural Revolt, 1986-1900
 
+>Reading
+p.699-707
+
 #### Keywords
 Chinese Exclusion Act
 

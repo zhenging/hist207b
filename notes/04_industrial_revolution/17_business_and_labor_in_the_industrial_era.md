@@ -1,5 +1,9 @@
 ## Chapter 17 Business and Labor in the Industrial Era, 1860-1900
 
+>Reading
+p.619-645
+p.645-655
+
 #### Keywords
 Thomas Alva Edision
 "Gospel of Wealth"

@@ -1,8 +1,8 @@
 ## Chapter 18 The New South and the New West, 1865-1890s
 
 >Reading
-p666-673
-p673-695
+p.666-673
+p.673-695
 
 #### Keywords
 Mississippi Plan

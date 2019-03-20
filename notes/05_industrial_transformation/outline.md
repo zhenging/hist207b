@@ -1,8 +1,8 @@
 ## 05 Industrial Transformation
 
 >Reading
-Ch. 17 p645-655
-Ch. 18 p673-695
+Ch.17 p.645-655
+Ch.18 p.673-695
 Article: Workers Contest Meaning of Freedom Study
 Article: Unblinking Eyes
 

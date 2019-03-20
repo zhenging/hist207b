@@ -1,5 +1,10 @@
 ## 04 Industrial Revolution
 
+>Reading
+Ch.17 p.619-645
+Ch.17 p.645-655
+Ch.19 p.699-707
+
 Industrial Revolution issues still around today:
 
 ### 1. Climate Change

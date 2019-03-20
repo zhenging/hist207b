@@ -1,7 +1,7 @@
 ## Chapter 20 Seizing an American Empire, 1865-1913
 
 >Reading
-p745-769 only
+p.745-769
 
 #### Keywords
 Manifest destiny
