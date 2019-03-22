@@ -3,10 +3,8 @@
 >Reading
 Ch.21 p.776-793
 Article: Forotten Fight for Suffrage
-Article: The Most Damnable Outrage
-  + Focus on South's reaction and Roosevelt's views on Race
-Article: The Most Damnable Outrage
-  + Focus on effect of lynching on W.E.B Du Bois
+Article: The Most Damnable Outrage (Focus on South's reaction and Roosevelt's views on Race)
+Article: A Negro's Life is a Very Cheap Thing (Focus on effect of lynching on W.E.B Du Bois)
 
 Progressivism issues still around today: Political Participation
 

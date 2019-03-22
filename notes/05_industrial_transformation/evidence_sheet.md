@@ -21,3 +21,4 @@ The source of farmers’ problems was a long decline in commodity prices, caused
 Like so many of their counterparts laboring in urban factories, farmers realized that social change required demonstrations of power, and power lay in numbers—and organization. This is why farmers formed organizations such as the Grange, the Farmers’ Alliances, and the Populist Party.
 
 #### ES5. In 1870, approximately 55% of the nation’s workforce was employed in agriculture.
+![Graph](../assets/es5_5.png)
