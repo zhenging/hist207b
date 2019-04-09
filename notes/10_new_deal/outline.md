@@ -1,5 +1,11 @@
 ## 10 The New Deal
 
+>Reading
+p.919-936
+p.923
+Article: Why Candidates Still Use FDR
+Study: C-Span Presidential Leadership Doc
+
 ### Introduction
 Decade by decade approach
 + Begining marked off by?
@@ -10,7 +16,7 @@ Decade by decade approach
 **What about Franklin D. Roosevelt(FDR)?**
 + Study ES #1
 
-**MainThemes**
+**Main Themes**
 + FDR experimented with different types of national intervention.
   Look at ES #2
 + FDR turned national government intervention to three ends:
@@ -35,7 +41,7 @@ Sat. March 4, 1933: Inauguration
 
 Sun. March 5, 1933: 2 proclamations
 + Called Congress into special session
-+ Closed the banks and called it a **holiday** ()
++ Closed the banks and called it a **holiday**
 
 Thurs. March 9, 1933: Congress convened
 Emergency Banking Act of 1933 (**Do not use it in essay**)
@@ -44,7 +50,7 @@ Emergency Banking Act of 1933 (**Do not use it in essay**)
 + Congress's state of mind? Desperate.
 + On Inauguration Day, the New York Herald-Tribune ran an approving headline: "For Dictatorship If Necessary."
 
-ES #4. Jonathan Alder, The Defining Moment: FDR's One Hundred Days and the Triumph of Hope
+**ES #4**. Jonathan Alder, The Defining Moment: FDR's One Hundred Days and the Triumph of Hope
 "... but something inside the man kept him from moving in an extra constitutional direction."
 
 Sunday evening: Fireside chat: Banks will open Monday morning. (Americans believes FDR.)
@@ -53,16 +59,16 @@ Saved the capitalist financial system.
 
 #### B. The Problems of Relief
 **What's FDR's Pattern?**
-+ 1\. Solve problem by creating new national government agency.
-+ 2\. Agency intervenes directly. Government get new responsibilities.
+1. Solve problem by creating new national government agency.
+2. Agency intervenes directly. Government get new responsibilities.
 
 **Bring in source for essay.**
-1\. **F**ederal **E**mergency **R**elief **A**dministration (FERA) p.923
+1\. **FERA**(Federal Emergency Relief Administration) p.923
 > Possible New Deal Essay Example.
-National government took responsibilities for relief
-For social welfare of citizens
-No unemployment insurance.
-First time since.
++ National government took responsibilities for relief.
++ For social welfare of citizens
++ No unemployment insurance.
++ First time since.
 
 National government gave money $\to$ state $\to$ direct relief to citizens
 
@@ -71,4 +77,71 @@ FDR's belief on proper Role of Government
 Think like FDR
 **FDR**: Crisis requires direct Government Relief
 **HH**: Direct relief = dependency.(Redline)
-Must cit ES #6-9 in essay component #1
+
+Must cite ES #6-9 in essay component #1 and cite "Proper Role of Government Doc"
+ES #6, strong and categorical
+
+FDR and HH both feared the dole: Giving to the needy may lead to dependency.
+
+ES #5. How do government minimize dangers of dole dependency?
+
+Back to FDR's pattern.
+
+**Bring in source for essay.**
+2\. Work Relief Program
+> Possible New Deal Essay Example.
+ccc 1933-1942 p.924
+source: ccclegacy.org
+
+**Who did CCC employ?**
++ 18-25 yr men. Over 3 millions enrolled.
+
+**How many teeth?**
++ 6
+
+**What do they do?**
++ Soil soilders. Environment Conservation
+
++ Joined two underutilized resources. **Young men** and **public land**.
++ FDR's pet project.
++ Commitment to Conservation.
++ Public's view: Wholesome proprgram. Instill moral values.
++ Jobs and wages directly from national government
++ New government responsibilities: **Put unemployed to work**.
+
+**Politicals of Camps**
+Every member of Congress wanted a CCC Camp (in their home districts).
+Early years, some camps were integrated.
+Local Compliants. $\to$ Camps segragated.
+
+**HH did not fade away.**
+Prominent Republican critic of FDR and New Deal
++ CCC $\to$ Dependence on Government (Entitlement mentality)
++ Not government's responsibilities to put young men to work. (Private sector creats jobs)
+
+We've looked at FERA and CCC?
+**How likely do they do to bring recovery?**
+
+##### C. Economic Recovery Program
+ES #10
+
+### 2. ThE Second New Deal
+Social security. p.937-939
+Very ugly problem.
++ Poverty rate of elderly = 70-90%.
++ Today: 9%
+
+FDR: Government had responsibilities.
+Final responsibilities To aid this vulnerable group.
+Social Security = Social Reform, Safety Net
+
+============================
+**Detour: Not Part of Essay**.
+Social Security Solutions
++ **Raise Cap**. Now $132, 900.
++ **Raise Rate**. Now 7.65%.
++ **Raise Retirement Age**. 1980: 65 $\to$ 67
++ **Cut Benefit**. (AARP, American Association of Retired Persons)
+============================
+
+Go to Social Security Doc. Bring info to essay.
