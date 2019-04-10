@@ -39,7 +39,7 @@ Even before Coolidge took office, the Republican party had become firmly committ
 + Citizens turned to government to manage interdependence and to protect citizens from powerful economic interests.
 + Private groups of citizens (interest groups) demanded government help in advancing their goals.
 
-**Let’s look at Herbert Hoover (): Major 1920s figure**
+**Let’s look at Herbert Hoover: Major 1920s figure**
 **Hoover bio:**
 + Self-made man. Mining Egineer. At age 40, 4 millions dollar
 + \$\$\$ $\to$ public service. (Quakers. The religion's society of friends).
@@ -54,9 +54,9 @@ Dept. Commerce budget up 600%
 Republican agenda is to cut govt.
 
 **How to reconcile these two things?**
-+ Commerce serves (business) core constituency of Republican Party.
 
-Who does Commerce Dept. serve?
+**Who does Commerce Dept. serve?**
++ Commerce serves (business) core constituency of Republican Party.
 
 **What was Hoover doing at the Commerce Dept?**
 + Standardize Everything (Interchangeable)
