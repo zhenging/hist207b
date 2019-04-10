@@ -23,7 +23,7 @@ Industrial Revolution = New System of Production
 
 **Frederick Taylor**: The father of Scientific Management (Tindall p787-788)
 
->ES1. Frederick Winslow Taylor, “The Principles of Scientific Management,” 1911.
+>ES 1. Frederick Winslow Taylor, “The Principles of Scientific Management,” 1911.
 “In the past, the man had been first. In the future, the system must be first.”
 
 The System Promotes **Effiency**.
@@ -40,12 +40,12 @@ The System Promotes **Effiency**.
 + Power shift from workers to Management
 + Alienation
 
->ES2. Robert Kanigel, The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency (Viking, 1977) From the dust cover of the book:
+>ES 2. Robert Kanigel, The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency (Viking, 1977) From the dust cover of the book:
 
 Obsessive/compulsive
 Some industrial pushing back on Taylorism
 
->ES3. Conclusion to the industrial transformation of work
+>ES 3. Conclusion to the industrial transformation of work
 
 ### 2. Agriculture
 Industrial Revolution = mechanization of Agriculture
@@ -56,7 +56,7 @@ Price Collapse
 Bankruptcy
 Anger and Vulnerability
 
->ES4. Conclusion to the industrial transformation of agriculture: Tindall, previous edition
+>ES 4. Conclusion to the industrial transformation of agriculture: Tindall, previous edition
 
 **Study Questions (Ch. 17)**
 What obstacles did workers face when they attempted to organize?

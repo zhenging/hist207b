@@ -4,7 +4,7 @@
 + Both aimed to achieve security and stability.
 + Both recognized the dangers of the dole.
 
-**Dividing linebetween Hoover and Roosevelt:  **
+**Dividing linebetween Hoover and Roosevelt:**
 What the national government should be responsible for
 
 **Hoover's vision of the "Good Society"-------Hoover's ideal**
@@ -19,7 +19,7 @@ What the national government should be responsible for
 + Assign a new and expansive role to the national government:
 + To shape and improve society
 
-Tindall, in a previous edition of your text, mades this important point:  "Franklin Roosevelt and the New Dealers went beyond the concept of regulated capitalism by insisting that the government not simply respondto social crises but also take positive steps to avoidthemand their social effects.To this end the New Deal's various benefit programs sought to ensure a minimum level of well-being for all Americans."
+Tindall, in a previous edition of your text, mades this important point:  "Franklin Roosevelt and the New Dealers went beyond the concept of regulated capitalism by insisting that the government not simply respond to social crises but also take positive steps to avoidthemand their social effects. To this end the New Deal's various benefit programs sought to ensure a minimum level of well-being for all Americans."
 
 Expand the array of interests served by the national government to include: retirees, workers, employers, farmers, consumers
 

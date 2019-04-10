@@ -3,7 +3,7 @@
 #### ES 1. David Kennedy, Freedom From Fear: The American People in Depression and War, 1929 – 1945 (Oxford, 1999)
 Some things about FDR were well and widely understood: that he shared his cousin Theodore's belief in the supremacy of the public interest over private interests and in the government's role as the active agent of the public interest; that he meant to preside over a government even more vigorously interventionist and directive than Hoover's; that he intended to use government power to redress what he judged to be harmful and unfair imbalances in the American economy,especially the huge income gap between the agricultural and industrial sectors; that he had long been seeking for ordinary Americans some measure of the economic security and predictability of life's material circumstances that his own patrician class took for granted; that he had a lover's passion for the cause of conservation; that he was a champion of public waterpower...
 
-#### ES2. Franklin D. Roosevelt, Speech at Oglethorpe University, May 22, 1934
+#### ES 2. Franklin D. Roosevelt, Speech at Oglethorpe University, May 22, 1934
 "The country needs, and, unless I mistake its temper, the country demands bold, persistent experimentation. It is common sense to take a method and try it: If it fails, admit it frankly and try another. But above all, try something."
 
 #### ES 3. Franklin D. Roosevelt, Fireside Chat, September 30, 1934

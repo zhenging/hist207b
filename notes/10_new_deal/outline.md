@@ -136,12 +136,14 @@ Final responsibilities To aid this vulnerable group.
 Social Security = Social Reform, Safety Net
 
 ============================
+
 **Detour: Not Part of Essay**.
 Social Security Solutions
 + **Raise Cap**. Now $132, 900.
 + **Raise Rate**. Now 7.65%.
 + **Raise Retirement Age**. 1980: 65 $\to$ 67
 + **Cut Benefit**. (AARP, American Association of Retired Persons)
+
 ============================
 
 Go to Social Security Doc. Bring info to essay.

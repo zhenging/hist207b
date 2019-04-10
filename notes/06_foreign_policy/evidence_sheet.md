@@ -1,20 +1,20 @@
 ## FOREIGN POLICY 1890s: EVIDENCE SHEET
 
-#### ES1. Senator Albert J. Beveridge, "The March of the Flag" speech, September, 1898
+#### ES 1. Senator Albert J. Beveridge, "The March of the Flag" speech, September, 1898
 “Today we are raising more than we can consume. Today we are making more than we can use. Today our industrial society is congested; there are more workers than there is work; there is more capital than there is investment. We do not need more money—we need more circulation, more employment. Therefore we must find new markets for our produce, new occupation for our capital, new work for our labor. And so, while we did not need the territory taken during the past century at the time it was acquired, we do need what we have taken in 1898, and we need it now."
 
-#### ES2. The American Asiatic Association, Constitution, Article II, Objects and Purposes
+#### ES 2. The American Asiatic Association, Constitution, Article II, Objects and Purposes
 Published in the Journal of the American Asiatic Association, I (June 10, 1899)
 “The objects and purposes of this Association are:
 1. To foster and safeguard the trade and commercial interests of the citizens of the United States, and others associated therewith, in the Empires of China, Japan, and Korea, and in the Philippine Islands, and elsewhere in Asia or Oceania;
 2. To secure the advantages of sustained watchfulness and readiness for action, attainable by union and permanent organization, in respect of such Asiatic trade, and as well in matters of legislation, or treaties affecting the same;
 
-#### ES3. Tindall on Social Darwinism, pp. 710 - 711 and p. 747
+#### ES 3. Tindall on Social Darwinism, pp. 710 - 711 and p. 747
 Social Darwinists argued that human society and institutions, like plant and animal species, passed through the process of natural selection, which resulted in what they called “the survival of the fittest.”
 Claims of racial superiority bolstered the new imperialist spirit. Spokesmen in each Western country, including the United States, used the arguments of social Darwinism to justify economic exploitation and territorial conquest. Among nations as among individuals, expansionists claimed, the fittest survive and prevail.
 Josiah Strong, a Congregationalist minister claimed that the Anglo-Saxon was “divinely commissioned to be, in a peculiar sense, his brother’s keeper.”
 
-#### ES4. Senator Henry Cabot Lodge, "Our Blundering Foreign Policy," Forum Magazine, 1895
+#### ES 4. Senator Henry Cabot Lodge, "Our Blundering Foreign Policy," Forum Magazine, 1895
 "The tendency of modern nations is toward consolidation; small states are of the past and have no future. The great nations are rapidly absorbing for their future expansion and their present defense all the waste places of the earth. It is a movement which makes for civilization and advancement of the race. As one of the great nations of the world, the United States must not fall out of the line of the march."
 
 #### ES5. Josiah Strong, Our Country, 1885

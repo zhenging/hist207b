@@ -12,7 +12,6 @@ ES #1. Is Wilson sincere? **Yes**
 ES #2. The father of Missionary Diplomary (MD).
 Wilson knows "All wars end" with peace treaty. $\to$ Chance to pratice MD. $\to$ Remake the world.
 
-
 #### 1. Neutrality
 **1914 Aug 1st** - Germany declared war.
 **1914 Aug 4th** - Wilson issued _Declaration of Neutrality_
@@ -24,7 +23,6 @@ Wilson knows "All wars end" with peace treaty. $\to$ Chance to pratice MD. $\to$
 + Vital US interest (Territory, Institution, Trade): Not directly threatened by outbreak of war in 1914.
 + Neutrals get to trade with both sides.
 + Neutrality looks good in 1914.
-
 
 #### 2. Why US went to war in 1917?
 p.823-824
@@ -113,8 +111,57 @@ What is the proper role of the US should play abroad?
 **Essay ends here.**
 
 ##### C. Wilson/Lodge Rivalry
+>Not an Essay Component
+
 1\. Political Rivalry
 **Who gets credits?**
-+ 
++ Remember Republican Point of View
++ Winning War. Winning Peace
+
+2\. Personal Rivalry
+**Lodge**: PHD from History Harvard (#1 scholar in politics, until who came along? Wilson knocked Lodge off his perch).
+**Wilson**: PHD in political science from Princeton
+
+3\. Academic Rivalry
+**Who is more recognized?**
 
 ##### D. Personality in History
+>Not an Essay Component
+
+Wilson: crusading personality, **unable** to comprise
+Main Argument
+Wilson Article: p.23, p.27
+
+**Clement Disgresss**: ES#5. Able to Comprise
+
+| Stoessinger | Clenments |
+:-------|:------|
+| Unable to Compromise | Able to Compromise |
+| Crusading Personality | Stroke interfere |
+| Destined to fail (_violates Contingency_)| |
+
+**Which explanation is better?**
++ Clements emphasizes Contingency.
++ Random medical event changed the history.
++ Continency. What if Wilson had died? ES #6
++ Wilson **alive**: US out of League of Nations
++ Wilson **died**: US in League of Nations
+
+**Go to conclusion. Essay Component #3**
+
+### Conclusion
+League of Nations is the forerunner of today's UN.
+MD: Missionary Diplomacy. Spread Democracy and Capitalism abroad.
+
+World War I
+Treaty of Versailles (Harsh punishment for Germany)
+War-Guilt Case
+Reparation: Money
+Demilitarization of RhineLand
+1933: Hitler comes to power.
+1936: Hitler marched troops into Rhineland. **Clear violation of Treaty**.
+Leagu of Nations' Problem? LON's duty to enforce Treaty.
+
+**Who would fight?**
+
+**Big Question. What if US had joined LON?**
