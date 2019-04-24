@@ -1,7 +1,7 @@
 ## Chapter 30 Rebellion and Reaction, 1960s and 1970s
 
 #### Keywords
-“counterculture”
+"counterculture"
 The Feminine Mystique
 NOW
 Roe v. Wade
@@ -9,8 +9,8 @@ Equal Rights Amendment
 Hispanic rights
 AIM
 gay rights
-Nixon’s Southern Strategy
-“Vietnamization”
+Nixon's Southern Strategy
+"Vietnamization"
 Kent State University
 Jackson State College
 Pentagon Papers
