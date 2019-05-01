@@ -1,5 +1,8 @@
 ## OUTLINE:  CIVIL RIGHTS
 
+>Reading
+[Eyes On The Prize - (Part 2) Fighting Back 1957–1962](https://www.youtube.com/watch?v=4D5xwC6M_Gk)
+
 ### Introduction
 What systems of law has the South employed to maintain the racial hierarchy?
 
