@@ -4,7 +4,7 @@
 GI Bill of Rights
 NAACP
 Brown V. Board of Education
-“Massive resistance”
+"Massive resistance"
 Southern Manifesto
 Montgomery bus boycott
 Martin Luther King, Jr.
@@ -12,7 +12,7 @@ Orval Faubus
 SCLC
 Ho Chi Minh
 Ngo Dinh Diem
-“Falling domino theory”
+"Falling domino theory"
 Sputnik
 
 #### Questions

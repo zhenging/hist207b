@@ -18,7 +18,7 @@ Dust Bowl
 
 National Labor Relations Act
 
-“court-packing plan”
+"court-packing plan"
 
 #### Questions
 1\. What did Hoover do to reverse the economic collapse? Why didn’t Hoover do more?

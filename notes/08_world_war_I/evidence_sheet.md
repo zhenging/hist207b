@@ -10,10 +10,10 @@ A. Democracy and capitalism are superior institutions and nations abroad would b
 B. Democracy and capitalism within the U.S. function best in a world of similar institutions. So Americans would be better off if nations abroad adopted these institutions.
 
 #### ES 3. Woodrow Wilson, War Message to Congress, April 2, 1917
-“We are glad, now that we see the facts with no veil of false pretence about them, to fight thus for the ultimate peace of the world and for the liberation of its peoples, the German peoples included: for the rights of nations great and small and the privilege of men everywhere to choose their way of life and of obedience. **The world must be made safe for democracy**. Its peace must be planted upon the tested foundations of political liberty. We have no selfish ends to serve. We desire no conquest, no dominion. We seek no indemnities for ourselves, no material compensation for the sacrifices we shall freely make. We are but one of the champions of the rights of mankind. We shall be satisfied when those rights have been made as secure as the faith and the freedom of nations can make them.”
+"We are glad, now that we see the facts with no veil of false pretence about them, to fight thus for the ultimate peace of the world and for the liberation of its peoples, the German peoples included: for the rights of nations great and small and the privilege of men everywhere to choose their way of life and of obedience. **The world must be made safe for democracy**. Its peace must be planted upon the tested foundations of political liberty. We have no selfish ends to serve. We desire no conquest, no dominion. We seek no indemnities for ourselves, no material compensation for the sacrifices we shall freely make. We are but one of the champions of the rights of mankind. We shall be satisfied when those rights have been made as secure as the faith and the freedom of nations can make them."
 
 #### ES 4.  Woodrow Wilson, Fourteen Points Message to Congress, January 8, 1918
-“What we demand in this war, therefore, is nothing peculiar to ourselves. It is that the world be made fit and safe to live in; and particularly that it be made safe for every peace-loving nation which, like our own, wishes to live its own life, determine its own institutions, be assured of justice and fair dealing by the other peoples of the world against force and selfish aggression.
+"What we demand in this war, therefore, is nothing peculiar to ourselves. It is that the world be made fit and safe to live in; and particularly that it be made safe for every peace-loving nation which, like our own, wishes to live its own life, determine its own institutions, be assured of justice and fair dealing by the other peoples of the world against force and selfish aggression.
 All the peoples of the world are in effect partners in this interest, and for our own part we see very clearly that unless justice be done to others it will not be done to us. The program of the world's peace, therefore, is our program; and that program, the only possible program, as we see it, is this:
 1\. Open covenants of peace, openly arrived at, after which there shall be no private international understandings of any kind but diplomacy shall proceed always frankly and in the public view.
 2\. Absolute freedom of navigation upon the seas, outside territorial waters, alike in peace and in war, except as the seas may be closed in whole or in part by international action for the enforcement of international covenants.
@@ -34,7 +34,7 @@ Many historians credit Wilson for:
 + Doing more than anyone else to establish the first modern association of nations
 + Establishing the goals and objectives of U.S. foreign policy in the twentieth century
 
-Some historians criticize Wilson based on this sequence of events: (Arrows mean “led to” or “contributed to”)
+Some historians criticize Wilson based on this sequence of events: (Arrows mean "led to" or "contributed to")
 + Lodge vs. Wilson $\To$
 + No U.S. participation in L.O.N. $\To$
 + Weakened L.O.N. $\To$

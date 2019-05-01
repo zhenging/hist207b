@@ -1,7 +1,7 @@
 ## Indutrial Transformations: EVIDENCE SHEET
 
-#### ES 1. Frederick Winslow Taylor, “The Principles of Scientific Management,” 1911.
-“In the past, the man had been first. In the future, the system must be first.”
+#### ES 1. Frederick Winslow Taylor, "The Principles of Scientific Management," 1911.
+"In the past, the man had been first. In the future, the system must be first."
 
 #### ES 2. Robert Kanigel, The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency (Viking, 1977) From the dust cover of the book:
 To organized labor, Taylor was a slave-driver. To the bosses, he was an eccentric who raised wages while ruling the factory floor with a stopwatch. To himself, he was a misunderstood visionary who, under the banner of Science, would confer prosperity on all and abolish the old class hatreds.

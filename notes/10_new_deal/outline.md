@@ -5,6 +5,7 @@ p.919-936
 p.923
 Article: Why Candidates Still Use FDR
 Study: C-Span Presidential Leadership Doc
+[Why the Candidates Still Use FDR as Their Measure](https://www.americanheritage.com/why-candidates-still-use-fdr-their-measure) by William E. Leuchtenburg
 
 ### Introduction
 Decade by decade approach

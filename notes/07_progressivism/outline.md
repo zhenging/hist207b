@@ -23,7 +23,7 @@ Progressivism issues still around today: Political Participation
 If you’re interested in learning more about voting, Google this: **Planet Earth Gets a Ground Game** (From Washington Monthly Magazine). This article highlights the Environmental Voter Project at environmentalvoter.org.
 The Progressive Era saw major advancements in environmental conservation.
 
->President Theodore Roosevelt: “I hate a man who skins the land.” (Tindall, p. 798)
+>President Theodore Roosevelt: "I hate a man who skins the land." (Tindall, p. 798)
 
 ### Introduction
 **What is Progressivism?**

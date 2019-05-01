@@ -24,7 +24,7 @@ The years from the Civil war to about 1890 may be described at a period of isola
 The Navy Lobby was an interest group actively promoting American expansion abroad.
 **Alfred Thayer Mahan was** a spokesperson for this interest group. What was his message?
 
-Study the “State of the Union” Article by Ivan Musicant and your text p746-747
+Study the "State of the Union" Article by Ivan Musicant and your text p746-747
 
 **Navy Lobby as an interest group**: Pressure the government and Persuade the public to expand abroad.
 **They want**: ships, bases, and colonies.
@@ -64,8 +64,8 @@ Please follow-up on these important points about the role of business in expansi
 + Study the many passages in the text that emphasize the commercial motive for expansion abroad
 + Study ES1:  March of the Flag speech
 + Study ES2:  The American Asiatic Association
-+ Identify statements in Beveridge’s “Speech on the Philippine Question,” that use the demands of trade and commerce to justify U.S. imperialism.
-+ Who was Frederick Jackson Turner?  What was his frontier thesis?  Why was business concerned about the “closing” of the frontier?Study the State of the Union article, pp. 3-5 and Tindall, pp. 694 –695 and 746 to understand the frontier thesis.
++ Identify statements in Beveridge’s "Speech on the Philippine Question," that use the demands of trade and commerce to justify U.S. imperialism.
++ Who was Frederick Jackson Turner?  What was his frontier thesis?  Why was business concerned about the "closing" of the frontier?Study the State of the Union article, pp. 3-5 and Tindall, pp. 694 –695 and 746 to understand the frontier thesis.
 
 Remember map of Africa (Evidence put in essay)
 Scramble of colonies. US is behind.

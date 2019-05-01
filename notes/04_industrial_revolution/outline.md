@@ -26,9 +26,9 @@ According to the United Nations Intergovernmental Panel on Climate Change: **Glo
 How America was transformed from a predominately rural and agricultural to an urban and industrial society, and what this meant for the people of the United States.
 
 **Carl N. Degler, The Age of the Economic Revolution, 1876 – 1900**, (Scott, Foresman, 1977)
-“The industrialization and urbanization of the United States must be included among the most important developments in the nation’s history, comparable only to the American Revolution, which established the nation’s independence, and the Civil War, which assured its survival.”
+"The industrialization and urbanization of the United States must be included among the most important developments in the nation’s history, comparable only to the American Revolution, which established the nation’s independence, and the Civil War, which assured its survival."
 
-“The Economic Revolution of the last half of the nineteenth century was more than a proliferation of factories and machines; it can also be seen as a transformation of a society. Within the span of years no longer than a newborn infant takes to become an adult, a nation of small-property owners (the majority of whom were self-employed farmers) became a nation in which most men had little or no connection with the land, were largely without property, and worked for other men.”
+"The Economic Revolution of the last half of the nineteenth century was more than a proliferation of factories and machines; it can also be seen as a transformation of a society. Within the span of years no longer than a newborn infant takes to become an adult, a nation of small-property owners (the majority of whom were self-employed farmers) became a nation in which most men had little or no connection with the land, were largely without property, and worked for other men."
 
 The Industrial Revolution was driven by the interaction of its many component parts. What are some of the components of the Industrial Revolution? Think carefully about how these components of the Industrial Revolution interact with each other.
 
@@ -36,6 +36,6 @@ Think about the primacy of railroad expansion and a nationwide market.
 The expansion of the railroads was a pivotal factor in creating a nationwide market for goods and services. This nationwide market spawned many of the features of modern industrial society: specialization of labor; the factory system; mass production; mass consumption; capital-intensive agriculture.
 Tindall emphasizes the importance of the railroads and the nationwide market on
 p.625-626.
-“The transcontinental railroads tied the nation together, changed the economic and political landscape, and enabled the United States to emerge as a world power.”
+"The transcontinental railroads tied the nation together, changed the economic and political landscape, and enabled the United States to emerge as a world power."
 
 **Study Govt Role Doc**

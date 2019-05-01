@@ -1,7 +1,7 @@
 ## WORLD WAR II: EVIDENCE SHEET
 
 #### ES1. FDR, Radio Message, September 3, 1939
-“You must master at the outset a simple but unalterable fact in modern foreign relations between nations. When peace has been broken anywhere, the peace of all countries everywhere is in danger.
+"You must master at the outset a simple but unalterable fact in modern foreign relations between nations. When peace has been broken anywhere, the peace of all countries everywhere is in danger.
 
 It is easy for you and for me to shrug our shoulders and to say that conflicts taking place thousands of miles from the continental United States, and, indeed, thousands of miles from the whole American Hemisphere, do not seriously affect the Americas and that all the United States has to do is to ignore them and go about its own business. Passionately though we may desire detachment, we are forced to realize that every word that comes through the air, every ship that sails the sea, every battle that is fought, does affect the American future...
 
@@ -10,13 +10,13 @@ This nation will remain a neutral nation, but I cannot ask that every American r
 I have said not once, but many times, that I have seen war and that I hate war. I say that again and again...As long as it remains within my power to prevent, there will be no black-out of peace in the United States."
 
 #### ES2. Tindall on the destroyers-for-bases deal, p. 898
-German submarine attacks on British ships strained the resources of the battered Royal Navy. To address the challenge, Churchill and Roosevelt negotiated an executive agreement by which fifty “overaged" U.S. destroyers went to Britain in return for allowing the U.S. to build naval and air baseson British islands in the Caribbean. Roosevelt explained the bold action as necessary for the defense of the “American hemisphere."
+German submarine attacks on British ships strained the resources of the battered Royal Navy. To address the challenge, Churchill and Roosevelt negotiated an executive agreement by which fifty "overaged" U.S. destroyers went to Britain in return for allowing the U.S. to build naval and air baseson British islands in the Caribbean. Roosevelt explained the bold action as necessary for the defense of the "American hemisphere."
 
 #### ES3. Tindall on FDR using executive authority, previous edition
 The world crisis transformed Roosevelt into a decisive, forceful president willing to exert executive authority on behalf of Britain. Roosevelt acted with remarkable boldness in the face of anAmerican public that still held staunchly to the doctrine of isolationism.2
 
 #### ES4. FDR, Arsenal of Democracy Speech, December 29, 1940
-“Never before since Jamestown and Plymouth Rock has our American civilization been in such danger as now...The Nazi masters of Germany have made it clear that they intend not only to dominate all life and thought in their own country, but also to enslave the whole of Europe, and thento use the resources of Europe to dominate the rest of the world...In other words, the Axis not onlyadmits but proclaims that there can be no ultimate peace between their philosophy of government and our philosophy of government...
+"Never before since Jamestown and Plymouth Rock has our American civilization been in such danger as now...The Nazi masters of Germany have made it clear that they intend not only to dominate all life and thought in their own country, but also to enslave the whole of Europe, and thento use the resources of Europe to dominate the rest of the world...In other words, the Axis not onlyadmits but proclaims that there can be no ultimate peace between their philosophy of government and our philosophy of government...
 
 Thinking in terms of today and tomorrow, I make the direct statement to the American people that thereis far less chance of the United States getting into war, if we do all we can now to support the nationsdefending themselves against attack by the Axis than if we acquiesce in their defeat, submit tamely toan Axis victory, and wait our turn to be the object of attack in another war later on.
 

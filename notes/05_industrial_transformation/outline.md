@@ -23,8 +23,8 @@ Industrial Revolution = New System of Production
 
 **Frederick Taylor**: The father of Scientific Management (Tindall p787-788)
 
->ES 1. Frederick Winslow Taylor, “The Principles of Scientific Management,” 1911.
-“In the past, the man had been first. In the future, the system must be first.”
+>ES 1. Frederick Winslow Taylor, "The Principles of Scientific Management," 1911.
+"In the past, the man had been first. In the future, the system must be first."
 
 The System Promotes **Effiency**.
 **Taylor's goal**: Increase effiency and productivity of workers

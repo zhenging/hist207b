@@ -51,10 +51,10 @@ Joseph McCarthy (p.1029)
 5\.	How would you characterize Truman’s leadership on civil rights?
 + Desegregating the military.
 
-6\.	“Who lost China” to communism?
+6\.	"Who lost China" to communism?
 
 7\.	What were the causes and the result of the Korean War?
 + p.1023. **War in Korea**
 
-8\. What’s your text mean by “Cold War government”?
+8\. What’s your text mean by "Cold War government"?
 + p.1031.
