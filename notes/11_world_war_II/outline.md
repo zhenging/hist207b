@@ -1,9 +1,9 @@
 ## World War II
 
-**BACKGROUND**: Historians rank FDR as the third greatest U.S. president. In the article you read on FDR, historian William Leuchenburg states that Roosevelt’s high ranking rests partly "on his role in leading the nation to accept the responsibilities of world power." In class we will examine FDR’s efforts to lead the nation away from isolationism and toward internationalism.
-Below is the outline of material we will cover in class. Designated on the outline by letters A through H are FDR’s efforts to lead the nation to do more to assist Britain and France in their conflict with the Fascist powers.
+**BACKGROUND**: Historians rank FDR as the third greatest U.S. president. In the article you read on FDR, historian William Leuchenburg states that Roosevelt's high ranking rests partly "on his role in leading the nation to accept the responsibilities of world power." In class we will examine FDR's efforts to lead the nation away from isolationism and toward internationalism.
+Below is the outline of material we will cover in class. Designated on the outline by letters A through H are FDR's efforts to lead the nation to do more to assist Britain and France in their conflict with the Fascist powers.
 
-**INSTRUCTIONS**: Please preview this outline for World War II and briefly answer questions 1 - 5 which are underlined on this outline. Bring the completed 5 page outline to class. You’ll need it to take notes on. Be prepared for quiz questions on the material that’s underlined. You do not need to bring the other materials (map, articles, ES) to class—just the outline, which is the first 5 pages of this outline packet.
+**INSTRUCTIONS**: Please preview this outline for World War II and briefly answer questions 1 - 5 which are underlined on this outline. Bring the completed 5 page outline to class. You'll need it to take notes on. Be prepared for quiz questions on the material that's underlined. You do not need to bring the other materials (map, articles, ES) to class—just the outline, which is the first 5 pages of this outline packet.
 
 **Our focus:**
 + FDR Battles Isolationism
@@ -43,10 +43,10 @@ Isonationism is opposite of internationalism.
 Internationalism = FDR (Engage abroad, and Shape the world)
 
 
-FDR’s Leadership
+FDR's Leadership
 
-QUESTION #1: According to Kinsley, what’s the most important component of
-presidential leadership? According to Schwarz, what’s most important?
+QUESTION #1: According to Kinsley, what's the most important component of
+presidential leadership? According to Schwarz, what's most important?
 To answer QUESTION #1, study the articles in this outline packet: "The Power of One" by Michael Kinsley, and "Bush Fibbed, and that might be OK," by Benjamin Schwarz
 > Reading
 [Bush Fibbed, and That Might Be OK](https://www.latimes.com/archives/la-xpm-2003-oct-30-oe-schwarz30-story.html)
@@ -57,7 +57,7 @@ To answer QUESTION #1, study the articles in this outline packet: "The Power of 
 September 1, 1939: Hitler invaded Poland; general war in Europe began.
 Key question: How much would the U.S. do to assist Britain and France?
 
-#### A. Roosevelt’s Radio Message, September 3, 1939 (Tindall, p. 954)
+#### A. Roosevelt's Radio Message, September 3, 1939 (Tindall, p. 954)
 QUESTION #2: What was FDR trying to persuade the public to recognize?
 To answer QUESTION #2, study the excerpt of this message: ES #1. The Evidence Sheet is included in this outline packet.
 + Speaking is leading.
@@ -77,7 +77,7 @@ FDR determined Britain will survive.
 June, 1940: Hitler captured Paris. Summer, 1940: Battle of Britain
 Churchill to FDR: Britain needs direct U.S. government assistance to survive.
 Churchill asks FDR to transfer 50 U.S. destroyers to Britain.
-QUESTION #3: What action did FDR take in response to Churchill’s request? See
+QUESTION #3: What action did FDR take in response to Churchill's request? See
 Tindall, p. 958
 
 **Example #1:** Executive Action.
@@ -90,7 +90,7 @@ QUESTION #4: What course of action for the U.S. did FDR advocate in this speech?
 To answer QUESTION #4, study ES #4. Look up the word "arsenal."
 
 #### E. Lend-Lease, March, 1941 (Tindall, p. 959)
-QUESTION #5: In his press conference, what did FDR compare the Lend-Lease program to? Do you think it’s a valid comparison?
+QUESTION #5: In his press conference, what did FDR compare the Lend-Lease program to? Do you think it's a valid comparison?
 To answer QUESTION #5, study ES #5.
 + Minimizing huge national commmitment.
 + FDR can't bypass Congress (Only Congress can spend government money)
@@ -124,11 +124,11 @@ Churchill and Roosevelt proposed to construct the post-war world according to pr
 Sign a deal with Churchill
 
 **QUESTION #6:** What is the third principle in the Atlantic Charter?
-To answer QUESTION #6, read Roosevelt’s Message to Congress on "The Atlantic
+To answer QUESTION #6, read Roosevelt's Message to Congress on "The Atlantic
 Charter" which is included in this outline packet.
 + Self-determination of Nations
 
-#### H. Evaluating FDR’s Leadership
+#### H. Evaluating FDR's Leadership
 Fall 1941, Next Step for FDR
 Votes in Congress not there.
 Public Opinion $\to$ No foreign wars.

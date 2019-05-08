@@ -50,11 +50,11 @@ Hiroshima and Nagasaki (p.989)
 
 4\. How did the U.S. mobilize for war?
 
-5\.	What were the war’s effects on women, blacks, Mexican-Americans, and Native Americans?
+5\.	What were the war's effects on women, blacks, Mexican-Americans, and Native Americans?
 
 6\.	FDR and Churchill wanted democratic governments established in Eastern Europe at the end of the war. Why were they unable to achieve this objective?
 
-7\.	What were the considerations behind Truman’s decision to use the atomic bomb?
+7\.	What were the considerations behind Truman's decision to use the atomic bomb?
 
 8\. Why did the Allies win?
 + p.991

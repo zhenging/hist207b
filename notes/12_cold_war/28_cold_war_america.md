@@ -18,7 +18,7 @@ Sputnik
 #### Questions
 1\.	What did Eisenhower do with the New Deal programs he inherited from FDR and Truman?
 2\.	What was the second Great Migration?
-3\.	How does your text characterize Eisenhower’s leadership on civil rights?
+3\.	How does your text characterize Eisenhower's leadership on civil rights?
 4\. How did Eisenhower use the CIA in the Cold War?
 5\.	How did U.S. involvement in Vietnam begin?
 6\.	How do historians assess the Eisenhower years?

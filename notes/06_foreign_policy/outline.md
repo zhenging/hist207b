@@ -43,7 +43,7 @@ Control of sea -> national greatness and power
 **Sum up messages of Mahan**
 + Greatness Calls
 + Foundation is in place
-+ Let’s expand.
++ Let's expand.
 
 Seasick sailor wrote a long boring book. (The Influence of sea power)
 People with political power read the book and were persuaded., like Theodore Roosevelt.
@@ -60,11 +60,11 @@ Senator Albert Beveridge was a spokesperson for this interest group. What was hi
 **What is his tone?**
 + Urgent and dire. Catastrophe is coming.
 
-Please follow-up on these important points about the role of business in expansion abroad.  You’ll need to include this information in your essay.
+Please follow-up on these important points about the role of business in expansion abroad.  You'll need to include this information in your essay.
 + Study the many passages in the text that emphasize the commercial motive for expansion abroad
 + Study ES1:  March of the Flag speech
 + Study ES2:  The American Asiatic Association
-+ Identify statements in Beveridge’s "Speech on the Philippine Question," that use the demands of trade and commerce to justify U.S. imperialism.
++ Identify statements in Beveridge's "Speech on the Philippine Question," that use the demands of trade and commerce to justify U.S. imperialism.
 + Who was Frederick Jackson Turner?  What was his frontier thesis?  Why was business concerned about the "closing" of the frontier?Study the State of the Union article, pp. 3-5 and Tindall, pp. 694 –695 and 746 to understand the frontier thesis.
 
 Remember map of Africa (Evidence put in essay)
@@ -83,7 +83,7 @@ Beliefs are important in history because they spur people to act.
 Expansionists promoted the Liberty Argument.
 
 #### D. The Racial Supremacy and Religious Arguments
-Please follow-up on these important points about the roles of race and religion in expansion abroad. You’ll need to prepare this material for the midterm exam.
+Please follow-up on these important points about the roles of race and religion in expansion abroad. You'll need to prepare this material for the midterm exam.
 
 + Study what Tindall has to say about Social Darwinism. It's ES #3.
 + Study Tindall's section on imperialism. (p745-747)

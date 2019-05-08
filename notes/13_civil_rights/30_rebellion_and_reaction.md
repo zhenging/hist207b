@@ -18,7 +18,7 @@ Détente
 
 #### Questions
 1\.	How did Nixon handle civil rights and environmental protection?
-2\.	How does your text characterize Nixon’s handling of the war in Vietnam?
+2\.	How does your text characterize Nixon's handling of the war in Vietnam?
 3\. What were the costs and the legacy (after-effects) of the war in Vietnam?
 4\.	How did Nixon transform the dynamics of the cold war?
 5\.	What was Watergate? Its effects?

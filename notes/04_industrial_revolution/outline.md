@@ -26,7 +26,7 @@ According to the United Nations Intergovernmental Panel on Climate Change: **Glo
 How America was transformed from a predominately rural and agricultural to an urban and industrial society, and what this meant for the people of the United States.
 
 **Carl N. Degler, The Age of the Economic Revolution, 1876 – 1900**, (Scott, Foresman, 1977)
-"The industrialization and urbanization of the United States must be included among the most important developments in the nation’s history, comparable only to the American Revolution, which established the nation’s independence, and the Civil War, which assured its survival."
+"The industrialization and urbanization of the United States must be included among the most important developments in the nation's history, comparable only to the American Revolution, which established the nation's independence, and the Civil War, which assured its survival."
 
 "The Economic Revolution of the last half of the nineteenth century was more than a proliferation of factories and machines; it can also be seen as a transformation of a society. Within the span of years no longer than a newborn infant takes to become an adult, a nation of small-property owners (the majority of whom were self-employed farmers) became a nation in which most men had little or no connection with the land, were largely without property, and worked for other men."
 

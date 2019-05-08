@@ -2,13 +2,21 @@
 
 #### Part I: Third Midterm Exam Section
 This section of the final exam consists of 50 multiple-choice questions worth two points each. These questions will cover all of the materialon the current (third) course calendar. Please keep your eye on your class notes, text study guide notes, articles, film transcripts, evidence sheets, etc.
++ World War II and Cold War
++ Civil Rights
++ The Vietnam War and Its Aftermath
++ The Rise of Conservatism
++ The History of Climate Change
 
 #### Part II: Comprehensive Section
-This section of the final exam consists of 25 multiple-choice questions worth two points each. These questions will be drawn from the terms listed below. Use your class notes, textbook study guide notes, articles, and documentssuch as your evidence sheets to review these terms.
+This section of the final exam consists of 25 multiple-choice questions worth two points each. These questions will be drawn from the terms listed below. Use your class notes, textbook study guide notes, articles, and documents such as your evidence sheets to review these terms.
 
-black codes
-main features of Johnson's program of reconstruction
-main features of the Radical Republicans' program of reconstruction
+Black codes
+
+Main features of Johnson's program of reconstruction
+
+Main features of the Radical Republicans' program of reconstruction
+
 Freedmen's Bureau
 
 Fourteenth Amendment
@@ -16,11 +24,13 @@ Fourteenth Amendment
 Fifteenth Amendment
 
 Plessy v. Ferguson
-Government’s role in the industrial revolution
 
-components of the industrial revolution
+Government's role in the industrial revolution
+
+Components of the industrial revolution
 
 Andrew Carnegie
+
 J. P. Morgan
 
 Frederick Taylor
@@ -45,48 +55,48 @@ Seventeenth Amendment
 
 Nineteenth Amendment
 
- muckrakers
+Muckrakers
 
- Meat Inspection Act of 1906
+Meat Inspection Act of 1906
 
- Theodore Roosevelt’s view on race (article by Morris)
+Theodore Roosevelt's view on race (article by Morris)
 
- effect of Sam Hose’s lynching on W.E.B Du Bois (article by Dray)
+Effect of Sam Hose's lynching on W.E.B Du Bois (article by Dray)
 
- legacy of progressivism
+Legacy of progressivism
 
- public service concept of the state
+Public service concept of the state
 
- why Wilson chose neutrality
+Why Wilson chose neutrality
 
- why Wilson went to war
+Why Wilson went to war
 
- Fourteen Points
+Fourteen Points
 
- missionary diplomacy
+Missionary diplomacy
 
- League of Nations
- 
- Article X
+League of Nations
 
- Henry Cabot Lodge
+Article X
 
- Republican program of the 1920s
+Henry Cabot Lodge
 
- Andrew Mellon
+Republican program of the 1920s
 
- Hoover’s and Roosevelt’s views of the proper role of government and their responses to the economic crisis
+Andrew Mellon
 
- the Great Depression
+Hoover's and Roosevelt's views of the proper role of government and their responses to the economic crisis
 
- voluntarism
+The Great Depression
 
- election of 1932
+Voluntarism
 
- the New Deal
+Election of 1932
 
- Civilian Conservation Corps
+The New Deal
 
- Social Security Act
+Civilian Conservation Corps
 
- National Labor Relations Act
+Social Security Act
+
+National Labor Relations Act

@@ -12,7 +12,7 @@ Muckrakers (p.780)
 + Direct election of senators.
 
 WCTU (Women's Christian Temperance Union) (p.790)
-+ WCTU became one of the largest and most influential women’s groups of the 19th century by expanding its platform to campaign for labor laws, prison reform and suffrage.
++ WCTU became one of the largest and most influential women's groups of the 19th century by expanding its platform to campaign for labor laws, prison reform and suffrage.
 + Middle-class women reformers, most of them movtivated by stroong religious conviction, were the driving force behind social justice movement. Among the most powerful campaigns was that of the WCTU. (Consuming any alcohol was a sin).
 
 The National Child Labor Committee (p.791)

@@ -2,10 +2,10 @@
 
 **Prior to the Social Security Act of 1935, where did the elderly poor and other vulnerable citizens turn for assistance?**
 + In 1929, the national government spent no money on relief except for Indian wards, seamen, and veterans.
-+ In 1929, only eleven states had functioning pension systems. These eleven states paid \$222,000 in pensions to about 1,000 old people in 1929. That’s about \$220 per recipient per year.
++ In 1929, only eleven states had functioning pension systems. These eleven states paid \$222,000 in pensions to about 1,000 old people in 1929. That's about \$220 per recipient per year.
 + In 1930, only about 15% of workers in private industry were covered by pensions from their employers.
 + In 1930, no state government provided unemployment insurance.
-+ In 1931, only 93,260 of the 3.8 million female-headed families (that’s one out of forty) received mothers’ assistance from state governments. The average monthly family grant ranged from \$4.33 in Arkansas (\$56 in today’s \$) to \$69.31 in Massachusetts.
++ In 1931, only 93,260 of the 3.8 million female-headed families (that's one out of forty) received mothers' assistance from state governments. The average monthly family grant ranged from \$4.33 in Arkansas (\$56 in today's \$) to \$69.31 in Massachusetts.
 
 **Social Security** is a national government social insurance program with two parts:
 1. A national government system of old age insurance

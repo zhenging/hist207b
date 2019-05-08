@@ -21,11 +21,11 @@ National Labor Relations Act
 "court-packing plan"
 
 #### Questions
-1\. What did Hoover do to reverse the economic collapse? Why didn’t Hoover do more?
+1\. What did Hoover do to reverse the economic collapse? Why didn't Hoover do more?
 
 2\. Why did Franklin Delano Roosevelt (FDR) appeal to so many voters in the election of 1932?
 
-3\. What was FDR’s 3-prong strategy to revive the economy?
+3\. What was FDR's 3-prong strategy to revive the economy?
 
 4\. What did the NRA do? Did it succeed?
 + National Recovery Administration (p.925)
@@ -35,9 +35,9 @@ National Labor Relations Act
 + Agriculural Adjustment Act of 1933. (p.926)
 + Raise price for corps and herds by paying farms to cut back production.
 
-6\. What were Eleanor Roosevelt’s roles?
+6\. What were Eleanor Roosevelt's roles?
 
-7\. What were the depression’s effects on minority groups?
+7\. What were the depression's effects on minority groups?
 
 8\. Huey P. Long was a prominent critic of the New Deal. What did he propose?
 
