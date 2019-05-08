@@ -30,7 +30,10 @@ Election of 1964 (p.1102)
 
 Voting Rights Act of 1965 (p.1106)
 Tonkin Gulf Resolution (p.1109)
-Operation Rolling Thunder
+
+Operation Rolling Thunder (p.1109)
++ In 1965, Viet Cong attacked a US base near Pleiku in South Vietnam, killing and wounding more than 100 Americans. More attack led Johnson to approve operation Rolling Thunder, the first sustained US bombing of North Vietnam.
+
 Ho Chi Minh Trail
 Tet Offensive (p.1112)
 
@@ -40,5 +43,8 @@ Tet Offensive (p.1112)
 3\.	How does your text characterize Johnson's leadership on civil rights?
 4\.	What were the important components of Johnson's Great Society? Its successes and failures?
 5\.	Why did Johnson "Americanize" the war? What was America's goal in the war?
++ p.1110
++ Containing the spread of Communism
+
 6\.	What undermined pubic support in America for the war?
 7\.	What events made 1968 a year of extreme turbulence?
