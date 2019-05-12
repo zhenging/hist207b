@@ -134,7 +134,7 @@ Nixon's four years of fighting.
 + Erode respect of US Institution.
 + Opportunity Cost. $1 trillion.
 
-Why is Nixon ranked so high in international relation?
+**Why is Nixon ranked so high in international relation?**
 + Reduce Cold war tension with USSR and China. Detente, p.1151-1154
 + Open relations with China after 23 years of Non-recognition.
 + Nixon had "poltical cover". Might have used "political cover" to Vietname.
@@ -144,7 +144,7 @@ Why is Nixon ranked so high in international relation?
 
 Vietnam  ---linked to----- Watergate
 
-Study p.1154-1159 on Watergate.
+**Study p.1154-1159 on Watergate.**
 + Cover up + Hush Money
 + Special prosecutor investigate
 + Secret tape recordings discovered.
