@@ -1,7 +1,8 @@
 ## COLD WAR
 
 >Reading
-Ch.28 and 29
+ch28 and 29
+ch27 p.1022 (China), 1023-1028(Korea)
 
 ### Introduction
 **What characterized the US-Soviet relationship during the period 1917-1933?**

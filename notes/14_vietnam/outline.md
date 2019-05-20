@@ -1,7 +1,7 @@
 ## Outline: Vietnam War
 
 >Reading
-p.1063-1066 and 1085-1086
+ch28 p.1063-1066 and 1085-1086
 Article: Johnson's Personal War from The American Empire
 [Vietnam Documentary: LBJ Goes to War](https://www.youtube.com/watch?v=He7cukt6a-w)
 

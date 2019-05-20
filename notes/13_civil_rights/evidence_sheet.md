@@ -1,4 +1,4 @@
-### CIVIL RIGHTS:EVIDENCE SHEET
+### CIVIL RIGHTS: EVIDENCE SHEET
 
 #### ES1. Tindall on the role of churches in the civil rights movement, previous edition
 The African-American leaders of the civil rights movement were animated by powerful religious beliefs. Ministers were in the vanguard of the movement for racial equality and social justice... African-American congregations were the seedbed for civil rights protests and volunteers.
@@ -16,7 +16,7 @@ Quoted in David Halberstam, The Fifties(Random House, 1993) "If the Japs are rel
 Laws requiring the separation of the races "do not necessarily imply the inferiority of either race to the other..." The enforced separation of the races does not stamp "the colored race with a badge of inferiority."
 
 #### ES6. Brown v. Board of Education, 1954:
-"To separate [schoolchildren] . . . solely on the basis of race generates a feeling of inferiority as totheir status in the community that may affect their hearts and minds in a way unlikely ever to be undone... Separate educational facilities are inherently unequal."
+"To separate [schoolchildren] . . . solely on the basis of race generates a feeling of inferiority as to their status in the community that may affect their hearts and minds in a way unlikely ever to be undone... Separate educational facilities are inherently unequal."
 
 #### ES7. Dwight D. Eisenhower, Press Conference, May 19, 1954
 "I think it makes no difference whether or not I endorse it. The Constitution is as the Supreme Court interprets it; and I must conform to that and do my very best to see that it is carried out in this country."

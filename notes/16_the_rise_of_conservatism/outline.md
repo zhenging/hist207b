@@ -1,5 +1,8 @@
 ## Outline: The Rise of Conservatism:
 
+>Reading
+ch31 p.1165-1188
+
 ### 1. What is Conservatism?
 + Belief systems
 + Political force
