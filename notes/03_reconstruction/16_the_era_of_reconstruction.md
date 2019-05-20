@@ -3,10 +3,22 @@
 #### Key Terms
 Thirteenth Amendment
 Radical Republicans
-Freemen's Bureau
+
+**Freemen's Bureau**
++ p.584
++ Created on March 3, 1865, by Congress
++ To assist the "freemen and their wives and children"
++ First federal expirement in providing assistance directly to people rather than to states.
+
 Thaddeus Stevens
 Charles Sumner
-Black codes
+
+**Black codes**
++ p.589.
++ 1865 and 1866.
++ To make sure "the ex-slave was not a free man; he was a free Negro"
++ To restore white supremacy
+
 Civil Rights Act
 Fourteenth Amendment
 Military Reconstruction Act

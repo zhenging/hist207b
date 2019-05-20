@@ -15,12 +15,12 @@ Reconstruction issues still around today:
 ### What were the results of the Civil War?
 
 #### 1. Secession was dead.
-+ Secession by Law (11 states left)
+Secession by Law (11 states left)
 
-What would lincoln do?
-> Waging war of the 11 states
-War's Result: Total Defeat of the South
-Lesson: If the state tries to leave, it will be destoried.
+**What would lincoln do?**
++ Waging war of the 11 states
++ War's Result: Total Defeat of the South
++ Lesson: If the state tries to leave, it will be destoried.
 
 Keep those states in the union
 
@@ -76,19 +76,22 @@ Ending slavery is not the original war objective.
 + Give back political (vote, hold office) & economic (land) power back to  confederate leaders (Why need pardons? Traitors)
 + Freed slaves' view of J's program?
 
-#### B. J opposed granting the right to the African-Americans. _Why was this significant?_
+#### B. J opposed granting the right to the African-Americans.
+**Why was this significant?**
 + No blacks vote under J's program.
 + Lots of elections were coming up in the South.
 + Political power up for grabs
 + Black excluded.
 
-#### C. J states that the southern states would have to do the following to be readmitted: ratify the 13th Amendment (No More Slavery), nullify secession, and cancel their confederate debt. _Why was this significant?_
+#### C. J states that the southern states would have to do the following to be readmitted: ratify the 13th Amendment (No More Slavery), nullify secession, and cancel their confederate debt.
+**Why was this significant?**
 + Mississippi and Texas defied J's program on 13th Amendment. J still supported their readmission anyway.
 + Characterize J's Program: **Amazingly Lenient**
 
 ### 2. Why did J choose to promote the reconciliation of the North and South at the expense of doing "more" for the freed slaves?
+
 #### A. J was commited to the doctrine of states' rights
-Study carefully #2 on the Reconstruction Evidence Sheet. (States' Rights)
+Study carefully ES #2 on the Reconstruction Evidence Sheet. (States' Rights)
 Be able to define and give an example of states' rights. Know why the doctrine of states' rights was significant in the debate between J and the Republicans in Congress.
 Know the argumetns J employed in defending states' rights and how the RRs attempted to counter those Arguments.
 + Key state right issue: Would freed slaves vote?
@@ -130,7 +133,8 @@ Study carefully #4 on the Reconstruction Evidence Sheet. Know what Bowen says ab
 - Do more for freed slaves
 
 #### RRs' motives? SQ #5. (P 583, 587, 588)
-_Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator of Ohio); Thaddeus Stevens (House Representative of Pennsylvania)
+**Who are they?**
++ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator of Ohio); Thaddeus Stevens (House Representative of Pennsylvania)
 (1) Political motive: Blacks will vote republican (they are trying to help slaves).
 (2) Humanitarian motive: Evidence? - Part of anti-slavery movement **Before** civil war
   - Stevens: In his will, he requested to be buried in integrated cemetry.
@@ -145,7 +149,6 @@ _Who are they?_ Charles Sumner(Senator of Massachusetts),Benjamin Wade(Senator o
   - Stevens said: The whole fabric of southern society must be changed.
 
 Evidence Sheet #6: Good example to put in essay.
-
 
 ### 6. Congress' Program (Congress's terms of reunion)
 (The first component of your essay must include: 6A, 6B, and 6C)
@@ -167,47 +170,49 @@ Seats were still empty.
 + Why did they come up one vote short in trial?
 
 #### C. Summary of the Congressional Reconstruction Acts of 1867
-+ Congress abolished the state government in the South set uo under J's program
++ Congress abolished the state government in the South set up under J's program
 + Congress returned the southern states to millitary rule.
-  + North: Shutdown southern definance
-  + White southerns: Darkest chapter in south history
-  + Why? States' right and Race
+  - North: Shutdown southern definance
+  - White southerns: Darkest chapter in south history
+  - Why? States' right and Race
 + Congress supervised the creation of new state goverment in the South
 + Congress set new requirement for the readmission of the southern states:
-  + Former confederate leaders were excluded from office and voting
-  + Black suffrage
-  + Ratification of the 14th amendment
+  - Former confederate leaders were excluded from office and voting
+  - Black suffrage
+  - Ratification of the 14th amendment
 
 ### 7. Go to Blacks in Congress handout
-Why did African Americans flip? (From Republican to Democratic)
+**Why did African Americans flip? (From Republican to Democratic)**
 + Party loyalties were forged in civil war. (Lasted for about 100 years)
 + Black in South = Republican
-+ White in South = Democratic
++ White in South = Democrats
 
 1877: North troops out of South: tired of race problem in South. Republican party abandoned blacks in South.
-Franklin Roosevelt - Democratic - 1932
+
+**Franklin Roosevelt - Democratic - 1932**
 + Minority Appointments
 + Blacks start to move out of Republican Party into Democratic Party
 
-Harry Truman Democratic 1945
+**Harry Truman Democratic 1945**
 + Wipes out segration in armed force
 + More blacks move to Democratic Party
 
-Lyndon Johnson - Democratic - 1963
+**Lyndon Johnson - Democratic - 1963**
 + Civil Right
 + 90% blacks into Democratic Parth
 
 ### 8. Re-establish white supremacy
+
 #### A. Disfranchisement (p666-667)
-How were black gains in South lost?
+**How were black gains in South lost?**
 + 15th amendment says: States can not deny vote baced on race. (Nullified states' rights to decide)
 
-How did Whites get around 15th amendment?
+**How did Whites get around 15th amendment?**
 + Poll Tax
 + Literacy Test
 
-How effective?
+**How effective?**
 + 1940: All south states, 5 million blacks, only 150,000 (3%) eligible to vote. 97% affected.
 
 #### B. Jim Crow Segration
-Racial seperation by state laws(p667-668）(Not just in south)
+Racial seperation by state laws(p.667-668）(Not just in south)

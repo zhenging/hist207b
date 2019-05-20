@@ -18,7 +18,7 @@ Manila Bay
 **Emilio Aguinaldo**
 + Many Filipinos had a different vision. In January 1899, the declared again their independence and named 29-year-old Emilio Aguinalda president. (p757)
 
-**American Anti-imperialism League** (p759)
+**American Anti-imperialism League** (p.759)
 Andrew Carnegie, Samuel Gompers ...
 
 #### Questions

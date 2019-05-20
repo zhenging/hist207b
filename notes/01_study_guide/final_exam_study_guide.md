@@ -16,36 +16,36 @@
 + These questions will be drawn from the terms listed below. Use your class notes, textbook study guide notes, articles, evidence sheets, and class outlines to review these terms. Points = 40.
 
 #### 3 Reconstruction
-+ [ ] Black codes
-+ [ ] Main features of Johnson's program of reconstruction
-+ [ ] Main features of the Radical Republicans' program of reconstruction
-+ [ ] Freedmen's Bureau
-+ [ ] Fourteenth Amendment
-+ [ ] Fifteenth Amendment
-+ [ ] Blacks in Congress
-+ [ ] Plessy v. Ferguson
++ [x] Black codes
++ [x] Main features of Johnson's program of reconstruction
++ [x] Main features of the Radical Republicans' program of reconstruction
++ [x] Freedmen's Bureau
++ [x] Fourteenth Amendment - Birthright Citizenship
++ [x] Fifteenth Amendment - Vote
++ [x] Blacks in Congress
++ [x] Plessy v. Ferguson
 
 #### 4 Industrial Revolution
-+ [ ] Government's role in the industrial revolution
-+ [ ] Components of the industrial revolution
-+ [ ] Andrew Carnegie
-+ [ ] J. P. Morgan
-+ [ ] Frederick Taylor
++ [x] Government's role in the industrial revolution
++ [x] Components of the industrial revolution
++ [x] Andrew Carnegie - p.635
++ [x] J. P. Morgan - p.636
++ [x] Frederick Taylor
++ [x] Social Darwinism
 
 #### 6 Foreign Policy
-+ [ ] Social Darwinism
-+ [ ] Yellow journalism
++ [x] Yellow journalism - p.750
 + [ ] Theodore Roosevelt
-+ [ ] Spanish-American War
-+ [ ] why did the US become an imperial power;
-+ [ ] Alfred Thayer Mahan
-+ [ ] Philippine-American War
++ [x] Spanish-American War - p.750
++ [x] Why did the US become an imperial power
++ [x] Alfred Thayer Mahan
++ [x] Philippine-American War - p.758
 
 #### 7 Progressivism
 + [ ] Progressivism
-+ [ ] Seventeenth Amendment
-+ [ ] Nineteenth Amendment
-+ [ ] Muckrakers
++ [x] Seventeenth Amendment - Direction election of senators.
++ [x] Nineteenth Amendment - Women's Suffrage
++ [x] Muckrakers - p.780
 + [ ] Meat Inspection Act of 1906
 + [ ] Theodore Roosevelt's view on race (article by Morris)
 + [ ] Effect of Sam Hose's lynching on W.E.B Du Bois (article by Dray)
