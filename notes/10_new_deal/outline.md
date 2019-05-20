@@ -9,8 +9,8 @@ Study: C-Span Presidential Leadership Doc
 
 ### Introduction
 Decade by decade approach
-+ Begining marked off by?
-+ End maked off by?
++ Begining marked off by? **The Great Depression**
++ End maked off by? **WWII**
 
 **What holds the decade together?**
 
@@ -126,7 +126,7 @@ We've looked at FERA and CCC?
 ##### C. Economic Recovery Program
 ES #10
 
-### 2. ThE Second New Deal
+### 2. The Second New Deal
 Social security. p.937-939
 Very ugly problem.
 + Poverty rate of elderly = 70-90%.

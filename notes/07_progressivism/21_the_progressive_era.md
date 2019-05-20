@@ -4,41 +4,6 @@
 p.776-793
 p.845-846
 
-#### Key Terms
-Muckrakers (p.780)
-+ America's first investigative journalists
-
-17th Amendment (p.787)
-+ Direct election of senators.
-
-WCTU (Women's Christian Temperance Union) (p.790)
-+ WCTU became one of the largest and most influential women's groups of the 19th century by expanding its platform to campaign for labor laws, prison reform and suffrage.
-+ Middle-class women reformers, most of them movtivated by stroong religious conviction, were the driving force behind social justice movement. Among the most powerful campaigns was that of the WCTU. (Consuming any alcohol was a sin).
-
-The National Child Labor Committee (p.791)
-+ Campaigned for laws prohibiting the employment of children.
-
-Triangle Shirtwaist fire (p.792)
-+ Triangle Shirtwaist Facrtory
-+ In the fire's aftermath, dozens of new city and state regulations dealing with fire hazards, dangerous working conditions, and child labor were enacted across the nation.
-
-16th Amendment (p.793)
-+ Income Tax. (Theodore Roosevelt announced his support.)
-
-The Jungle (p.797)
-+ A novel, which told the story of a Lithuanian immigrant working in a filthy Chicago meatpacking plant.
-
-Meat Inspection Act
-+ The **Federal Meat Inspection Act of** 1906 (FMIA) is an American law that makes it a crime to adulterate or misbrand meat and meat products being sold as food, and ensures that meat and meat products are slaughtered and processed under sanitary conditions.
-
-Pure Food And Drug Act (p.798)
-+ Required the makers of prepared food and medicines to host government inspectors.
-+ Excerpt from the **Pure Food and Drug Act**. An Act — For preventing the manufacture, sale, or transportation of adulterated or misbranded or poisonous or deleterious foods, drugs, medicines, and liquors, and for regulating traffic therein, and for other purposes.
-
-Federal Trade Commission (p.810)
-+ Wilson decided to make a strong Federal Trade Commission the cornerstone of his anti-trust program.
-+ The **Federal Trade Commission** is an independent agency of the United States government, established in 1914 by the Federal Trade Commission Act. Its principal mission is the promotion of consumer protection and the elimination and prevention of anticompetitive business practices, such as coercive monopoly.
-
 #### Questions
 1\. How does your text describe "the Progressivism impulse"?
 + Progressives were liberals, not revolutionaries. They wanted to reform and regulate capitalist society, not destroy it.

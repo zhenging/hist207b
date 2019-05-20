@@ -39,33 +39,33 @@
 + [x] Spanish-American War - p.750
 + [x] Why did the US become an imperial power
 + [x] Alfred Thayer Mahan
-+ [x] Philippine-American War - p.758
++ [ ] Philippine-American War - p.758
 
 #### 7 Progressivism
-+ [ ] Progressivism
++ [x] Progressivism
 + [x] Seventeenth Amendment - Direction election of senators.
 + [x] Nineteenth Amendment - Women's Suffrage
 + [x] Muckrakers - p.780
-+ [ ] Meat Inspection Act of 1906
++ [x] Meat Inspection Act of 1906
 + [ ] Theodore Roosevelt's view on race (article by Morris)
 + [ ] Effect of Sam Hose's lynching on W.E.B Du Bois (article by Dray)
-+ [ ] Public service concept of the state
++ [x] Public service concept of the state
 
 #### 8 World War I
-+ [ ] Why Wilson chose neutrality
-+ [ ] Why Wilson went to war
-+ [ ] Fourteen Points
-+ [ ] Missionary diplomacy
-+ [ ] League of Nations
-+ [ ] Article X
-+ [ ] Henry Cabot Lodge
++ [x] Why Wilson did choose neutrality
++ [x] Why Wilson did go to war
++ [x] Fourteen Points
++ [x] Missionary diplomacy - ES #2
++ [x] League of Nations
++ [x] Article X
++ [x] Henry Cabot Lodge
 
 #### 9 1920s
-+ [ ] Republican program of the 1920s
-+ [ ] Hoover's and Roosevelt's views of the proper role of government and their responses to the economic crisis
-+ [ ] The New Deal
-+ [ ] Civilian Conservation Corps
-+ [ ] Social Security Act
++ [x] Republican program of the 1920s - Minimum Government Intervention
++ [x] Hoover's and Roosevelt's views of the proper role of government and their responses to the economic crisis
++ [x] The New Deal
++ [x] Civilian Conservation Corps
++ [x] Social Security Act
 
 #### Bonus Question Section
 Consists of 5 bonus questions worth 2 points each. Bonus points = 10.
