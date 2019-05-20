@@ -51,14 +51,14 @@ A heartfelt appeal on behalf of a moral cause now trumped any self-serving polit
 
 Although J.F.K had been slow to rise to the challenge, he did ultimately meet it.
 
-#### ES16. William H. Chafe, The Unfinished Journey: American Since World War II(Oxford University Press, 1995). William H. Chafe is professor of history at Duke University and the author of Civilities and Civil Rights: Greensboro, North Carolina, and the Black Struggle for Freedom.
-"For a man who had always avoided conflict on domestic issues, it was a decisive moment. Kennedy had taken sides—first, because it was right and, second because he no longer had the option of avoiding a choice."
+#### ES16. William H. Chafe, The Unfinished Journey: American Since World War II(Oxford University Press, 1995).
+William H. Chafe is professor of history at Duke University and the author of Civilities and Civil Rights: Greensboro, North Carolina, and the Black Struggle for Freedom. "For a man who had always avoided conflict on domestic issues, it was a decisive moment. Kennedy had taken sides—first, because it was right and, second because he no longer had the option of avoiding a choice."
 
 #### ES17. Richard Reeves, President Kennedy: Profile in Power(Simon and Schuster, 1993).
-Reeves isthe author of many books and teaches political science at UCLA."That was it. Legislation would follow, but, at last, the President of the United States had chosen sides."
+Reeves is the author of many books and teaches political science at UCLA. "That was it. Legislation would follow, but, at last, the President of the United States had chosen sides."
 
-#### ES18. Thomas C. Reeves, A Question of Character: A Life of John F. Kennedy (The Free Press, 1991). Thomas C. Reeves is professor of history at the University of Wisconsin.
-"Above all, [the Kennedys] wanted to quell the turmoil that threatened to disrupt the entire nation and thus destroy their administration. As always, theKennedys were thinking primarily about politics and their own political futures...The real Kennedy—as opposed to the celebrated hero espoused by the Kennedy family, the media, and the Camelot School—lacked greatness in large part because he lacked the qualities inherent in good character."
+#### ES18. Thomas C. Reeves, A Question of Character: A Life of John F. Kennedy (The Free Press, 1991).
+Thomas C. Reeves is professor of history at the University of Wisconsin. "Above all, [the Kennedys] wanted to quell the turmoil that threatened to disrupt the entire nation and thus destroy their administration. As always, the Kennedys were thinking primarily about politics and their own political futures... The real Kennedy—as opposed to the celebrated hero espoused by the Kennedy family, the media, and the Camelot School—lacked greatness in large part because he lacked the qualities inherent in good character."
 
 #### ES19. Tindall on Lyndon Johnson's commitment to civil rights, p. 1099
 Those who dismissed Johnson as a traditional southern conservative failed to appreciate his genuine concern for the poor and his embrace of civil rights. "I'm going to be the best friend the Negro ever had," Johnson bragged to a member of the White House staff.
@@ -72,7 +72,7 @@ Those who dismissed Johnson as a traditional southern conservative failed to app
 1972  | 46%
 North and West = 28%
 
-#### ES21.Percent of eligible blacks registered to  vote
+#### ES21. Percent of eligible blacks registered to  vote
  | 1965 | 1968
 ------------|------------|--------
 Alabama     | 19%  | 53%

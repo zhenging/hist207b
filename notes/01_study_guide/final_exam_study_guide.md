@@ -11,6 +11,7 @@ This section of the final exam consists of 50 multiple-choice questions worth tw
 #### Part II: Comprehensive Section
 This section of the final exam consists of 25 multiple-choice questions worth two points each. These questions will be drawn from the terms listed below. Use your class notes, textbook study guide notes, articles, and documents such as your evidence sheets to review these terms.
 
+#### 3 Reconstruction
 Black codes
 
 Main features of Johnson's program of reconstruction
@@ -25,6 +26,7 @@ Fifteenth Amendment
 
 Plessy v. Ferguson
 
+#### 4 Industrial Revolution
 Government's role in the industrial revolution
 
 Components of the industrial revolution
@@ -37,6 +39,7 @@ Frederick Taylor
 
 Social Darwinism
 
+#### 6 Foreign Policy
 "yellow journalism"
 
 Theodore Roosevelt

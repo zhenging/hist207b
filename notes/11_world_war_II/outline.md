@@ -94,7 +94,7 @@ Key question: How much would the U.S. do to assist Britain and France?
 + Study ES #5.
 + Minimizing huge national commmitment.
 + FDR can't bypass Congress (Only Congress can spend government money)
-+ Total Lend-Lease during war = \$50 billion. $\to$ End of Depression.
++ Total Lend-Lease during war = $50 billion. --> End of Depression.
 
 **What's on first shipment?**
 + 170 miles of fire hose.

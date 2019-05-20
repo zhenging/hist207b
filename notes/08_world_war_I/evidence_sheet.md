@@ -35,8 +35,8 @@ Many historians credit Wilson for:
 + Establishing the goals and objectives of U.S. foreign policy in the twentieth century
 
 Some historians criticize Wilson based on this sequence of events: (Arrows mean "led to" or "contributed to")
-+ Lodge vs. Wilson $\To$
-+ No U.S. participation in L.O.N. $\To$
-+ Weakened L.O.N. $\To$
-+ Lack of opposition to Hitler's remilitarization of the Rhineland in 1936 $\To$
++ Lodge vs. Wilson -->
++ No U.S. participation in L.O.N. -->
++ Weakened L.O.N. -->
++ Lack of opposition to Hitler's remilitarization of the Rhineland in 1936 -->
 + World War II

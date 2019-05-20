@@ -39,7 +39,7 @@ In recent months attacks on South Vietnam were stepped up. Thus, it became neces
 Our resources are equal to any challenge. Because we fight for values and we fight for principles, rather than [for] territories or colonies, our patience and our determination are unending."
 
 #### ES5. Dean Rusk, Secretary of State, Memo to President Johnson, July 1, 1965
-The integrity of the U.S. commitment is the principal pillar of peace throughout the world. If that commitment becomes unreliable, the communist world would draw conclusions that would lead to our ruin and almost certainly to a catastrophic war... We cannot abandon [South Vietnam}without disaster to peace and to our interests throughout the world.
+The integrity of the U.S. commitment is the principal pillar of peace throughout the world. If that commitment becomes unreliable, the communist world would draw conclusions that would lead to our ruin and almost certainly to a catastrophic war... We cannot abandon [South Vietnam] without disaster to peace and to our interests throughout the world.
 
 #### ES6. Robert S. McNamara, In Retrospect: The Tragedy and Lessons of Vietnam(Vintage Books, 1995)
 I believe we could and should have withdrawn from South Vietnam either in late 1963 amid the turmoil following Diem's assassination or in late 1964 or early 1965 in the face of increasing political and military weakness in South Vietnam...

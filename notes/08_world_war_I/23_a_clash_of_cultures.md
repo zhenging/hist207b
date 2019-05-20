@@ -3,7 +3,7 @@
 >Reading
 p.866-867
 
-#### Keywords
+#### Key Terms
 NAACP (p.867)
 + The National Association for the Advancement of Colored People
 

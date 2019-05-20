@@ -4,7 +4,7 @@
 p.666-673
 p.673-695
 
-#### Keywords
+#### Key Terms
 Mississippi Plan
 Plessy v. Ferguson
 Jim Crow laws

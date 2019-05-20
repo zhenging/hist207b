@@ -3,7 +3,7 @@
 >Reading
 p.699-707
 
-#### Keywords
+#### Key Terms
 Chinese Exclusion Act
 
 #### Questions

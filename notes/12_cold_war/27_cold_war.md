@@ -1,6 +1,6 @@
 ## Chapter 27 Cold War and the Fair Deal, 1945 - 1952
 
-#### Keywords
+#### Key Terms
 Cold war (p.1001)
 + The awkward wartime alliance between the United States and the Soviet Union collapsed during the spring and the summer of 1945.
 

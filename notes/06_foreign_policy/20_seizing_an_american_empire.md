@@ -3,7 +3,7 @@
 >Reading
 p.745-769
 
-#### Keywords
+#### Key Terms
 Manifest destiny
 Imperialism
 Expansionists

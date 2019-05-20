@@ -30,16 +30,16 @@ Ending slavery is not the original war objective.
 2. Foreign Policy Necessity
 3. Right Thing To Do
 
-When did Linconln end slavery?
->**Emancipation Proclamation** - was an executive order issued by Abraham Lincoln on January 1, 1863.
+**When did Linconln end slavery?**
++ **Emancipation Proclamation** - was an executive order issued by Abraham Lincoln on January 1, 1863.
 
 ##### 3. 750,000 soldiers were dead.
 + Evidence Sheet 1 - This Repulic of Suffering
 + Total Population (North and South): 31 millions. (1/40 dead)
 + Casuality Ration: 70x of Vietnam War
 
-Was it worth it?
->Today's equivalent = 6 millons
+**Was it worth it?**
++ Today's equivalent = 6 millons
 
 #### The word "reconstruction" refers to
 + The period **1865-1877**
@@ -50,8 +50,8 @@ Was it worth it?
 + Empty seats in Senate: 22-1 = 21.
 + Who stayed? Andrew J (1865-1869). He is loyal to Union. (P. 586)
 
-How will we know when the South are readmitted?
-> Empty seats are filled.
+**How will we know when the South are readmitted?**
++ Empty seats are filled.
 
 #### Key political questions the nation faced during reconstruction
 + What changes would the North impose on the South as a condition of readmission to the Union?
@@ -59,21 +59,19 @@ How will we know when the South are readmitted?
 + What did the freed slaves seek beyond freedom?
 
 #### The national's dilemma during reconstruction
-+ Promote the reconciliation of the North and South
-Andrew J
-Race Hatred
++ Promote the reconciliation of the North and South (Andrew Johnson, Race Hatred)
 **Or**
-+ Provide the freed slaves "more (vote, legal equality, land)" than just free dom
-Thaddeus Stevens, Radical Repulican
++ Provide the freed slaves "more (vote, legal equality, land)" than just freedom (Thaddeus Stevens, Radical Repulican)
 
 #### Sidebar
-Do the southern states want their seats in congress back?
-> Seats = Power.
-Reunion means filling empty seats
+**Do the southern states want their seats in congress back?**
++ Seats = Power.
++ Reunion means filling empty seats
 
 ### 1. J's Progam (J's terms of reunion)
 
-#### A. J granted generous amnesty, pardons and restituion of property to the former confederate leaders. _Why was this significant?_
+#### A. J granted generous amnesty, pardons and restituion of property to the former confederate leaders.
+**Why was this significant?**
 + 15,000 requested, 13,500 granted. (90%).
 + Give back political (vote, hold office) & economic (land) power back to  confederate leaders (Why need pardons? Traitors)
 + Freed slaves' view of J's program?

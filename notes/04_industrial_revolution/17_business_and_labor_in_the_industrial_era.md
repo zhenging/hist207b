@@ -4,7 +4,7 @@
 p.619-645
 p.645-655
 
-#### Keywords
+#### Key Terms
 Thomas Alva Edision
 "Gospel of Wealth"
 laizzez-faire

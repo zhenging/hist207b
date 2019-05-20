@@ -65,7 +65,7 @@ By Conservative Think tans and interest groups:
 + Less tax revenue = Less Government
 + Starve the beast. Cut the tax to defund the government
 
-#### D. Revivial of Fundamentalism Religion
+#### D. Revival of Fundamentalism Religion
 **Moral Majority**
 + Influence public opinions
 + Pressure Government
@@ -74,23 +74,23 @@ By Conservative Think tans and interest groups:
 + TV and radio
 + Schools and universites
 
-#### E. Liberation $\to$ Conservatism Backlash
-Civil Rights Movement. Mode for
+#### E. Liberation --> Conservatism Backlash
+**Civil Rights Movement**. Mode for
 + Women, Hispanic, Native Americans, LGBTQ and other
 
 **NOW** -(National Organization For Women)
++ p.1130
 + Equal Rights Amendment.
 + Proposed in 1972, and die in 1982.
-+ **p.1132**
 
 **Roe v. Wade in 1973**
++ p.1130
 + Galvanized Conservatism
-+ **p.1130**
 + Prior to Roe: States' rights to decide
 
 Counterculture
 Sex Revolution
-Galvanized Conservatism to protect traditio.
+Galvanized Conservatism to protect tradition.
 
 #### F. Reagan
 + Federal Shift to Conservatism

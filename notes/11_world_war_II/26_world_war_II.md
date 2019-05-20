@@ -1,6 +1,6 @@
 ## Chapter 26 The Second World War, 1933 - 1945
 
-#### Keywords
+#### Key Terms
 Neutrality laws (p.952)
 + The Neutrality Act of 1935 prohibited Americans from selling weapons or traveling on ship owned by nations at war.
 
@@ -64,3 +64,5 @@ Hiroshima and Nagasaki (p.989)
 9\.	World War II had profound effects on American life and society. What were they?
 + p.992
 + Isolationism  branruptcy.
++ Expansion of the federal goverment
++ America emerged of the most powerful nation in the world.

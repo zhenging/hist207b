@@ -1,6 +1,6 @@
 ## Chapter 16 The Era of Reconstruction, 1865-1877
 
-#### Keywords
+#### Key Terms
 Thirteenth Amendment
 Radical Republicans
 Freemen's Bureau

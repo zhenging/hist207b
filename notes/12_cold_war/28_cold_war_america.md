@@ -1,6 +1,6 @@
 ## Chapter 28 Cold War America, 1950-1959
 
-#### Keywords
+#### Key Terms
 GI Bill of Rights
 NAACP
 Brown V. Board of Education

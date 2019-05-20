@@ -10,7 +10,7 @@ Article: Woodrow Wilson - Crusader for a Better World
 ### Introduction
 ES #1. Is Wilson sincere? **Yes**
 ES #2. The father of Missionary Diplomary (MD).
-Wilson knows "All wars end" with peace treaty. $\to$ Chance to pratice MD. $\to$ Remake the world.
+Wilson knows "All wars end" with peace treaty. --> Chance to pratice MD. --> Remake the world.
 
 #### 1. Neutrality
 **1914 Aug 1st** - Germany declared war.
@@ -74,7 +74,7 @@ Wilson submitted the treaty in July 10, 1919 and called for another appearance.
 
 **SFRC** (**S**enate **F**oreign **R**elation **C**ommittee)
 
-Treaty $\to$ SFRC $\to$ Final Vote in Senate
+Treaty --> SFRC --> Final Vote in Senate
 Committee process: Scrutinize Treaty
 
 **Who is the Chair?**

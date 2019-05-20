@@ -3,7 +3,7 @@
 >Reading
 p.1075-1108
 
-#### Keywords
+#### Key Terms
 Bay of Pigs (p.1082)
 + Catastrophe in Cuba. Invasion Failure.
 
@@ -27,15 +27,7 @@ Black power movement (p.1096)
 
 Civil Rights Act of 1964 (p.1100)
 Election of 1964 (p.1102)
-
 Voting Rights Act of 1965 (p.1106)
-Tonkin Gulf Resolution (p.1109)
-
-Operation Rolling Thunder (p.1109)
-+ In 1965, Viet Cong attacked a US base near Pleiku in South Vietnam, killing and wounding more than 100 Americans. More attack led Johnson to approve operation Rolling Thunder, the first sustained US bombing of North Vietnam.
-
-Ho Chi Minh Trail
-Tet Offensive (p.1112)
 
 #### Questions
 1\.	How does your text characterize Kennedy's leadership on civil rights?

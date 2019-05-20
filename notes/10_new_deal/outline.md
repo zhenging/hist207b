@@ -71,7 +71,7 @@ Saved the capitalist financial system.
 + No unemployment insurance.
 + First time since.
 
-National government gave money $\to$ state $\to$ direct relief to citizens
+National government gave money --> state --> direct relief to citizens
 
 **Essay Component #1 begins here.**
 FDR's belief on proper Role of Government
@@ -113,11 +113,11 @@ source: ccclegacy.org
 **Politicals of Camps**
 Every member of Congress wanted a CCC Camp (in their home districts).
 Early years, some camps were integrated.
-Local Compliants. $\to$ Camps segragated.
+Local Compliants. --> Camps segragated.
 
 **HH did not fade away.**
 Prominent Republican critic of FDR and New Deal
-+ CCC $\to$ Dependence on Government (Entitlement mentality)
++ CCC --> Dependence on Government (Entitlement mentality)
 + Not government's responsibilities to put young men to work. (Private sector creats jobs)
 
 We've looked at FERA and CCC?
@@ -142,7 +142,7 @@ Social Security = Social Reform, Safety Net
 Social Security Solutions
 + **Raise Cap**. Now $132, 900.
 + **Raise Rate**. Now 7.65%.
-+ **Raise Retirement Age**. 1980: 65 $\to$ 67
++ **Raise Retirement Age**. 1980: 65 --> 67
 + **Cut Benefit**. (AARP, American Association of Retired Persons)
 
 ============================

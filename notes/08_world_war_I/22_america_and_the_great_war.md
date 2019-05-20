@@ -3,7 +3,7 @@
 >Reading
 p.823-824
 
-#### Keywords
+#### Key Terms
 Central Powers (p.819)
 + The Triple Alliance (Germany, Austria-Hungary, Italy)
 

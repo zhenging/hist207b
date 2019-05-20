@@ -42,7 +42,7 @@ Even before Coolidge took office, the Republican party had become firmly committ
 **Let's look at Herbert Hoover: Major 1920s figure**
 **Hoover bio:**
 + Self-made man. Mining Egineer. At age 40, 4 millions dollar
-+ \$\$\$ $\to$ public service. (Quakers. The religion's society of friends).
++ \$\$\$ --> public service. (Quakers. The religion's society of friends).
 + Help WWI Reguees in Europe.
 + Head of Food Administration.
 + Advised Wilson in Paris.1
@@ -61,7 +61,7 @@ Republican agenda is to cut govt.
 **What was Hoover doing at the Commerce Dept?**
 + Standardize Everything (Interchangeable)
 + The division of simmplified practices.
-+ Standardizzation $\to$ Efficiency $\to$ Economic Growth $\to$ Consumer Culture.(p.854-869)
++ Standardizzation --> Efficiency --> Economic Growth --> Consumer Culture.(p.854-869)
 
 ### 2. Hoover Responds to the Economic Crisis
 **Why Study This?**

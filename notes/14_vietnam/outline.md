@@ -5,25 +5,28 @@ ch28 p.1063-1066 and 1085-1086
 Article: Johnson's Personal War from The American Empire
 [Vietnam Documentary: LBJ Goes to War](https://www.youtube.com/watch?v=He7cukt6a-w)
 
-#### Vietnam Documentary: LBJ Goes to War
-**Questions**
-1\. Who escalated the conflict?
-2\. Did Johnson seek a wider war? Why or why not?
-3\. How does the film characterize Johnson's advisers?
-4\. How does the film characterize Johnson?
+#### Key Terms
+Tonkin Gulf Resolution (p.1109)
+Operation Rolling Thunder (p.1109)
++ In 1965, Viet Cong attacked a US base near Pleiku in South Vietnam, killing and wounding more than 100 Americans. More attack led Johnson to approve operation Rolling Thunder, the first sustained US bombing of North Vietnam.
 
-**Terms**
-Hanoi
-+ Capital of North Vietnam
-
-Saigon
-+ Capital of South Vietnam
+Ho Chi Minh Trail
+Tet Offensive (p.1112)
+**Hanoi** - Capital of North Vietnam
+**Saigon** - Capital of South Vietnam
 
 Vietminh
 + Ho Chi Minh's political organization, founded in 1941, and based in North Vietnam. Its objectives were to achieve independence for Vietnam (the force of nationalism at work), and to overthrow the existing social and economic structures in Vietnam (the force of communism at work).
 
 Vietcong
 + Communist guerilla forces in South Vietnam.
+
+#### Vietnam Documentary: LBJ Goes to War
+**Questions**
+1\. Who escalated the conflict?
+2\. Did Johnson seek a wider war? Why or why not?
+3\. How does the film characterize Johnson's advisers?
+4\. How does the film characterize Johnson?
 
 ### 1. Why massive escalation under LBJ?
 
@@ -157,7 +160,7 @@ Carter pardoned draft evaders, in 1977
 **Nixon almost got away with it.**
 + Deep throat. Destroy tape?
 
-**Watergate $\To$ reform. p.1158-1159**
+**Watergate --> reform. p.1158-1159**
 + Freedom of Information Act
 
 **Fallout from Vietname and Watergate**

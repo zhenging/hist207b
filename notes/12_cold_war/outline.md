@@ -31,7 +31,7 @@ ch27 p.1022 (China), 1023-1028(Korea)
 + During the War, Germany and Japan had controlled large territories in Europe and Asia.
 + With the defeat of Germany and Japan in 1945, an important question emerged: Who would control (or have preponderant influence in) these territories?The US and the Soviet Union competed to fill these power vacuums.
 
-### B.The US and the Soviet Union embraced and promoted different ideologies
+#### B.The US and the Soviet Union embraced and promoted different ideologies
 Polar-opposition
 
 US values and beliefs | USSR values and beliefs
@@ -61,7 +61,7 @@ FDR's health = Controversy
 **Why is Poland so important at Yalta?**
 + Symbolic importance. (War begins in Poland)
 + Test cast of the Atlantic Charter Promise.
-+ FDR & Churchill $\To$ Self-determination. There must be free election.
++ FDR & Churchill --> Self-determination. There must be free election.
 + In Poland, Stalin wants Communist Government that is friendly to USSR. Poland is also a buffer zone between USSR and western Europe.
 
 **Result of free election in Poland?**
@@ -74,7 +74,7 @@ FDR's health = Controversy
 
 ### 3. The fall of Eastern Europe to Communist
 + p.1003-1004
-+ 1945-1948: Soviet Union imposed communist dictatorshio. World is shocked.
++ 1945-1948: Soviet Union imposed communist dictatorship. World is shocked.
 + ES #2, ES #3
 
 **Back in US**
@@ -92,16 +92,13 @@ FDR's health = Controversy
 + The Toughest on Communism wins.
 + Example: Nixon
 
-Tide of Red: Is western Eu next?
-How much does Stalin want?
+**Tide of Red: Is western Eu next? How much does Stalin want?**
 
 **Truman ends wartime alliance with USSR, and choose cold war. Why?**
 + Priority: Protect Western EU. (ES #5)
 + Pillars of Truman's Cold War Policy. (ES #7)
   * Containment. p.1004-1005
   * Truman Doctrine. p.1005-1006
-  * *
-
 
 ### 4. Containment and Truman Doctrine
 #### A. West Europe
@@ -111,7 +108,7 @@ Truman set up security systems.
   + More than paper treaty
   + 1952: 250,000 US troops in Eastern EU to reassure Western EU
   + NATO Ratificed by the Senate (82-13)
-  + **Why is Senate OK?** Pearl  Harbor - Isolationism id Dead.
+  + **Why is Senate OK?** Pearl  Harbor - Isolationism is dead.
 
 2\. Economic Plan - The Marshall Plan
 + 1948-1951: Economic Aid
